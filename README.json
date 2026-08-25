@@ -447,7 +447,7 @@
                         "last_commit": "2026-07-02T03:20:41Z",
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2366
+                        "stars": 2367
                       }
                     },
                     {
@@ -582,7 +582,7 @@
                         "last_commit": "2024-12-03T02:58:46Z",
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3499
+                        "stars": 3500
                       }
                     },
                     {
@@ -672,7 +672,7 @@
                         "last_commit": "2024-01-08T14:27:49Z",
                         "owner": "X-PLUG",
                         "repo": "Youku-mPLUG",
-                        "stars": 308
+                        "stars": 309
                       }
                     },
                     {
@@ -1192,7 +1192,7 @@
                         "last_commit": "2024-01-08T14:27:49Z",
                         "owner": "X-PLUG",
                         "repo": "Youku-mPLUG",
-                        "stars": 308
+                        "stars": 309
                       }
                     },
                     {
@@ -1237,7 +1237,7 @@
                         "last_commit": "2024-12-03T02:58:46Z",
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3499
+                        "stars": 3500
                       }
                     },
                     {
@@ -1640,7 +1640,7 @@
                 "last_commit": "2024-01-08T14:27:49Z",
                 "owner": "X-PLUG",
                 "repo": "Youku-mPLUG",
-                "stars": 308
+                "stars": 309
               }
             },
             {
@@ -1903,7 +1903,7 @@
                     "last_commit": "2024-01-08T14:27:49Z",
                     "owner": "X-PLUG",
                     "repo": "Youku-mPLUG",
-                    "stars": 308
+                    "stars": 309
                   }
                 },
                 {
@@ -1918,7 +1918,7 @@
                     "last_commit": "2026-07-02T03:20:41Z",
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2366
+                    "stars": 2367
                   }
                 },
                 {
@@ -2027,7 +2027,7 @@
                 "last_commit": "2024-01-08T14:27:49Z",
                 "owner": "X-PLUG",
                 "repo": "Youku-mPLUG",
-                "stars": 308
+                "stars": 309
               }
             },
             {
@@ -2205,7 +2205,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:21:45.275Z",
+    "last_updated": "2026-08-25T05:55:05.021Z",
     "original_repository": "yunlong10/Awesome-LLMs-for-Video-Understanding",
     "original_repository_id": 666960664,
     "original_repository_sha": "3b47584c5f8ec6e3f19a0a027687c49a7fb57f31",
