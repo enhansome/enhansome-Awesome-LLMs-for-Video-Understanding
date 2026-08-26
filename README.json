@@ -282,7 +282,7 @@
                         "last_commit": "2026-08-24T07:11:01Z",
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1512
+                        "stars": 1513
                       }
                     },
                     {
@@ -312,7 +312,7 @@
                         "last_commit": "2025-01-23T04:20:22Z",
                         "owner": "DAMO-NLP-SG",
                         "repo": "VideoLLaMA2",
-                        "stars": 1306
+                        "stars": 1307
                       }
                     },
                     {
@@ -537,7 +537,7 @@
                         "last_commit": "2026-03-12T01:04:00Z",
                         "owner": "NVlabs",
                         "repo": "VILA",
-                        "stars": 3858
+                        "stars": 3857
                       }
                     },
                     {
@@ -687,7 +687,7 @@
                         "last_commit": "2024-03-05T15:56:06Z",
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3435
+                        "stars": 3436
                       }
                     },
                     {
@@ -702,7 +702,7 @@
                         "last_commit": "2023-08-18T09:31:19Z",
                         "owner": "cg1177",
                         "repo": "VideoLLM",
-                        "stars": 158
+                        "stars": 157
                       }
                     },
                     {
@@ -925,7 +925,7 @@
                         "last_commit": "2025-01-16T08:28:36Z",
                         "owner": "mutonix",
                         "repo": "Vript",
-                        "stars": 161
+                        "stars": 162
                       }
                     },
                     {
@@ -1312,7 +1312,7 @@
                         "last_commit": "2025-01-23T04:20:22Z",
                         "owner": "DAMO-NLP-SG",
                         "repo": "VideoLLaMA2",
-                        "stars": 1306
+                        "stars": 1307
                       }
                     },
                     {
@@ -1379,7 +1379,7 @@
                         "last_commit": "2024-03-05T15:56:06Z",
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3435
+                        "stars": 3436
                       }
                     },
                     {
@@ -1394,7 +1394,7 @@
                         "last_commit": "2023-08-18T09:31:19Z",
                         "owner": "cg1177",
                         "repo": "VideoLLM",
-                        "stars": 158
+                        "stars": 157
                       }
                     }
                   ],
@@ -1955,7 +1955,7 @@
                     "last_commit": "2024-03-05T15:56:06Z",
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "Otter",
-                    "stars": 3435
+                    "stars": 3436
                   }
                 }
               ],
@@ -2205,7 +2205,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:26:51.114Z",
+    "last_updated": "2026-08-26T16:05:14.013Z",
     "original_repository": "yunlong10/Awesome-LLMs-for-Video-Understanding",
     "original_repository_id": 666960664,
     "original_repository_sha": "3b47584c5f8ec6e3f19a0a027687c49a7fb57f31",
