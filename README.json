@@ -282,7 +282,7 @@
                         "last_commit": "2026-08-24T07:11:01Z",
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1515
+                        "stars": 1516
                       }
                     },
                     {
@@ -327,7 +327,7 @@
                         "last_commit": "2026-07-17T10:31:09Z",
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3346
+                        "stars": 3347
                       }
                     },
                     {
@@ -537,7 +537,7 @@
                         "last_commit": "2026-03-12T01:04:00Z",
                         "owner": "NVlabs",
                         "repo": "VILA",
-                        "stars": 3857
+                        "stars": 3858
                       }
                     },
                     {
@@ -940,7 +940,7 @@
                         "last_commit": "2026-07-17T10:31:09Z",
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3346
+                        "stars": 3347
                       }
                     }
                   ],
@@ -1443,7 +1443,7 @@
                     "last_commit": "2026-07-17T10:31:09Z",
                     "owner": "OpenGVLab",
                     "repo": "Ask-Anything",
-                    "stars": 3346
+                    "stars": 3347
                   }
                 },
                 {
@@ -2057,7 +2057,7 @@
                 "last_commit": "2026-07-17T10:31:09Z",
                 "owner": "OpenGVLab",
                 "repo": "Ask-Anything",
-                "stars": 3346
+                "stars": 3347
               }
             },
             {
@@ -2205,7 +2205,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:22:30.290Z",
+    "last_updated": "2026-08-27T23:59:33.631Z",
     "original_repository_info": {
       "archived": false,
       "id": 666960664,
