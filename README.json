@@ -412,7 +412,7 @@
                         "open_issues": 29,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1518,
+                        "stars": 1519,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -487,7 +487,7 @@
                         "open_issues": 87,
                         "owner": "DAMO-NLP-SG",
                         "repo": "VideoLLaMA2",
-                        "stars": 1307,
+                        "stars": 1306,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -707,7 +707,7 @@
                         "open_issues": 147,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2369,
+                        "stars": 2370,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -1105,7 +1105,7 @@
                         "open_issues": 25,
                         "owner": "X-PLUG",
                         "repo": "Youku-mPLUG",
-                        "stars": 309,
+                        "stars": 310,
                         "topics": [
                           "benchmark",
                           "chinese",
@@ -1138,7 +1138,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3436,
+                        "stars": 3437,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -1316,7 +1316,7 @@
                         "open_issues": 15,
                         "owner": "RenShuhuai-Andy",
                         "repo": "TimeChat",
-                        "stars": 425,
+                        "stars": 426,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -1919,7 +1919,7 @@
                         "open_issues": 25,
                         "owner": "X-PLUG",
                         "repo": "Youku-mPLUG",
-                        "stars": 309,
+                        "stars": 310,
                         "topics": [
                           "benchmark",
                           "chinese",
@@ -2121,7 +2121,7 @@
                         "open_issues": 87,
                         "owner": "DAMO-NLP-SG",
                         "repo": "VideoLLaMA2",
-                        "stars": 1307,
+                        "stars": 1306,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -2222,7 +2222,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3436,
+                        "stars": 3437,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -2380,7 +2380,7 @@
                     "open_issues": 15,
                     "owner": "RenShuhuai-Andy",
                     "repo": "TimeChat",
-                    "stars": 425,
+                    "stars": 426,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:41:16.929Z"
@@ -2609,7 +2609,7 @@
                 "open_issues": 25,
                 "owner": "X-PLUG",
                 "repo": "Youku-mPLUG",
-                "stars": 309,
+                "stars": 310,
                 "topics": [
                   "benchmark",
                   "chinese",
@@ -2999,7 +2999,7 @@
                     "open_issues": 25,
                     "owner": "X-PLUG",
                     "repo": "Youku-mPLUG",
-                    "stars": 309,
+                    "stars": 310,
                     "topics": [
                       "benchmark",
                       "chinese",
@@ -3032,7 +3032,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2369,
+                    "stars": 2370,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3109,7 +3109,7 @@
                     "open_issues": 65,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "Otter",
-                    "stars": 3436,
+                    "stars": 3437,
                     "topics": [
                       "artificial-inteligence",
                       "chatgpt",
@@ -3221,7 +3221,7 @@
                 "open_issues": 25,
                 "owner": "X-PLUG",
                 "repo": "Youku-mPLUG",
-                "stars": 309,
+                "stars": 310,
                 "topics": [
                   "benchmark",
                   "chinese",
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:53:57.668Z",
+    "last_updated": "2026-08-30T18:11:20.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3533,7 +3533,7 @@
       "open_issues": 6,
       "owner": "yunlong10",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3276,
+      "stars": 3279,
       "topics": []
     },
     "original_repository_sha": "3b47584c5f8ec6e3f19a0a027687c49a7fb57f31",
