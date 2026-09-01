@@ -1459,7 +1459,7 @@
                         "open_issues": 20,
                         "owner": "csuhan",
                         "repo": "OneLLM",
-                        "stars": 665,
+                        "stars": 666,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:23:04.333Z",
+    "last_updated": "2026-09-01T17:57:02.418Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3533,7 +3533,7 @@
       "open_issues": 6,
       "owner": "yunlong10",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3279,
+      "stars": 3280,
       "topics": []
     },
     "original_repository_sha": "3b47584c5f8ec6e3f19a0a027687c49a7fb57f31",

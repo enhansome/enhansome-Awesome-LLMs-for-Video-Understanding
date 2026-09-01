@@ -8,7 +8,7 @@
 
 <h5 align="center">  
 
-**[Paper](https://ieeexplore.ieee.org/document/10982110)** | **[arXiv](https://arxiv.org/abs/2312.17432)** | **[Project Page](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,279 | 🐛 6 | 📅 2026-08-24**
+**[Paper](https://ieeexplore.ieee.org/document/10982110)** | **[arXiv](https://arxiv.org/abs/2312.17432)** | **[Project Page](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,280 | 🐛 6 | 📅 2026-08-24**
 
 </h5>
 
@@ -23,7 +23,7 @@
 \[05/04/2025]
 
 🌟 Our Vid-LLM survey has been accepted to the IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)!
-👉 [IEEE Xplore](https://ieeexplore.ieee.org/document/10982110) | [GitHub](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,279 | 🐛 6 | 📅 2026-08-24
+👉 [IEEE Xplore](https://ieeexplore.ieee.org/document/10982110) | [GitHub](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,280 | 🐛 6 | 📅 2026-08-24
 
 \[07/23/2024]
 
@@ -251,7 +251,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**VTG-GPT: Tuning-Free Zero-Shot Video Temporal Grounding with GPT**](https://arxiv.org/abs/2403.02076)                                                       |   VTG-GPT  | 03/2024 | [code](https://github.com/YoucanBaby/VTG-GPT) ⭐ 112 \| 🐛 0 \| 🌐 Python \| 📅 2026-01-13 |  arXiv  |
 | [**Momentor advancing video large language model with fine-grained temporal reasoning**](https://arxiv.org/abs/2402.11435)                                     |  Momentor  | 02/2024 |   [code](https://github.com/DCDmllm/Momentor) ⭐ 81 \| 🐛 6 \| 🌐 Python \| 📅 2024-11-24  |   ICML  |
 | [**Detours for navigating instructional videos**](https://arxiv.org/abs/2401.01823)                                                                            | VidDetours | 01/2024 |                                          [code]()                                         |   CVPR  |
-| [**OneLLM: One Framework to Align All Modalities with Language**](https://arxiv.org/abs/2312.03700)                                                            |   OneLLM   | 12/2023 |   [code](https://github.com/csuhan/OneLLM) ⭐ 665 \| 🐛 20 \| 🌐 Python \| 📅 2024-10-22   |  arXiv  |
+| [**OneLLM: One Framework to Align All Modalities with Language**](https://arxiv.org/abs/2312.03700)                                                            |   OneLLM   | 12/2023 |   [code](https://github.com/csuhan/OneLLM) ⭐ 666 \| 🐛 20 \| 🌐 Python \| 📅 2024-10-22   |  arXiv  |
 | [**GPT4Video a unified multimodal large language model for lnstruction-followed understanding and safety-aware generation**](https://arxiv.org/abs/2311.16511) |  GPT4Video | 11/2023 |                            [code](https://gpt4video.github.io)                            |  ACMMM  |
 
 #### 🧭 (Analyzer + Embedder) × LLM
@@ -525,4 +525,4 @@ Our project wouldn't be possible without the contributions of these amazing peop
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
