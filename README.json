@@ -1075,7 +1075,7 @@
                         "open_issues": 69,
                         "owner": "DAMO-NLP-SG",
                         "repo": "Video-LLaMA",
-                        "stars": 3141,
+                        "stars": 3142,
                         "topics": [
                           "blip2",
                           "cross-modal-pretraining",
@@ -1553,7 +1553,7 @@
                         "id": 721210096,
                         "language": "Python",
                         "license": null,
-                        "last_commit": "2025-08-05T01:15:25Z",
+                        "last_commit": "2026-09-05T16:56:03Z",
                         "open_issues": 15,
                         "owner": "mbzuai-oryx",
                         "repo": "Video-LLaVA",
@@ -1782,7 +1782,7 @@
                         "open_issues": 69,
                         "owner": "DAMO-NLP-SG",
                         "repo": "Video-LLaMA",
-                        "stars": 3141,
+                        "stars": 3142,
                         "topics": [
                           "blip2",
                           "cross-modal-pretraining",
@@ -2142,7 +2142,7 @@
                         "open_issues": 0,
                         "owner": "dragonlzm",
                         "repo": "PAVE",
-                        "stars": 27,
+                        "stars": 28,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -2347,7 +2347,7 @@
                     "id": 721210096,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2025-08-05T01:15:25Z",
+                    "last_commit": "2026-09-05T16:56:03Z",
                     "open_issues": 15,
                     "owner": "mbzuai-oryx",
                     "repo": "Video-LLaVA",
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:48:07.937Z",
+    "last_updated": "2026-09-05T16:56:23.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
