@@ -412,7 +412,7 @@
                         "open_issues": 29,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1523,
+                        "stars": 1525,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -445,7 +445,7 @@
                         "id": 814778688,
                         "language": "Python",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2025-08-05T01:08:43Z",
+                        "last_commit": "2026-09-05T16:56:53Z",
                         "open_issues": 16,
                         "owner": "mbzuai-oryx",
                         "repo": "VideoGPT-plus",
@@ -707,7 +707,7 @@
                         "open_issues": 147,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2376,
+                        "stars": 2377,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -1038,7 +1038,7 @@
                         "id": 642368010,
                         "language": "Python",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2025-08-05T01:07:25Z",
+                        "last_commit": "2026-09-05T16:57:07Z",
                         "open_issues": 26,
                         "owner": "mbzuai-oryx",
                         "repo": "Video-ChatGPT",
@@ -1075,7 +1075,7 @@
                         "open_issues": 69,
                         "owner": "DAMO-NLP-SG",
                         "repo": "Video-LLaMA",
-                        "stars": 3142,
+                        "stars": 3143,
                         "topics": [
                           "blip2",
                           "cross-modal-pretraining",
@@ -1782,7 +1782,7 @@
                         "open_issues": 69,
                         "owner": "DAMO-NLP-SG",
                         "repo": "Video-LLaMA",
-                        "stars": 3142,
+                        "stars": 3143,
                         "topics": [
                           "blip2",
                           "cross-modal-pretraining",
@@ -1829,7 +1829,7 @@
                         "id": 642368010,
                         "language": "Python",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2025-08-05T01:07:25Z",
+                        "last_commit": "2026-09-05T16:57:07Z",
                         "open_issues": 26,
                         "owner": "mbzuai-oryx",
                         "repo": "Video-ChatGPT",
@@ -3032,7 +3032,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2376,
+                    "stars": 2377,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3310,7 +3310,7 @@
                 "open_issues": 2,
                 "owner": "llyx97",
                 "repo": "TempCompass",
-                "stars": 133,
+                "stars": 132,
                 "topics": [
                   "evaluation",
                   "temporal-perception",
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:56:23.954Z",
+    "last_updated": "2026-09-06T17:20:50.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3533,7 +3533,7 @@
       "open_issues": 7,
       "owner": "yunlong10",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3279,
+      "stars": 3277,
       "topics": []
     },
     "original_repository_sha": "3b47584c5f8ec6e3f19a0a027687c49a7fb57f31",
