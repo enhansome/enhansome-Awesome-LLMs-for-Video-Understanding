@@ -412,7 +412,7 @@
                         "open_issues": 29,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1526,
+                        "stars": 1525,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -487,7 +487,7 @@
                         "open_issues": 87,
                         "owner": "DAMO-NLP-SG",
                         "repo": "VideoLLaMA2",
-                        "stars": 1307,
+                        "stars": 1306,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -707,7 +707,7 @@
                         "open_issues": 147,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2379,
+                        "stars": 2382,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -749,7 +749,7 @@
                         "open_issues": 3,
                         "owner": "bigai-nlco",
                         "repo": "VideoTGB",
-                        "stars": 33,
+                        "stars": 34,
                         "topics": [
                           "llm",
                           "mllm",
@@ -937,7 +937,7 @@
                         "open_issues": 125,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3500,
+                        "stars": 3499,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -1075,7 +1075,7 @@
                         "open_issues": 69,
                         "owner": "DAMO-NLP-SG",
                         "repo": "Video-LLaMA",
-                        "stars": 3143,
+                        "stars": 3142,
                         "topics": [
                           "blip2",
                           "cross-modal-pretraining",
@@ -1782,7 +1782,7 @@
                         "open_issues": 69,
                         "owner": "DAMO-NLP-SG",
                         "repo": "Video-LLaMA",
-                        "stars": 3143,
+                        "stars": 3142,
                         "topics": [
                           "blip2",
                           "cross-modal-pretraining",
@@ -2007,7 +2007,7 @@
                         "open_issues": 125,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3500,
+                        "stars": 3499,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -2121,7 +2121,7 @@
                         "open_issues": 87,
                         "owner": "DAMO-NLP-SG",
                         "repo": "VideoLLaMA2",
-                        "stars": 1307,
+                        "stars": 1306,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -2588,7 +2588,7 @@
                 "open_issues": 3,
                 "owner": "Soldelli",
                 "repo": "MAD",
-                "stars": 176,
+                "stars": 177,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3032,7 +3032,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2379,
+                    "stars": 2382,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:05:28.153Z",
+    "last_updated": "2026-09-09T17:59:39.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
