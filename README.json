@@ -286,7 +286,7 @@
                         "open_issues": 2,
                         "owner": "jqtangust",
                         "repo": "hawk",
-                        "stars": 224,
+                        "stars": 225,
                         "topics": [
                           "anomaly",
                           "anomaly-detection",
@@ -568,7 +568,7 @@
                         "open_issues": 42,
                         "owner": "wenhaochai",
                         "repo": "MovieChat",
-                        "stars": 706,
+                        "stars": 707,
                         "topics": [
                           "computer-vision",
                           "dataset",
@@ -663,7 +663,7 @@
                         "open_issues": 30,
                         "owner": "bytedance",
                         "repo": "tarsier",
-                        "stars": 550,
+                        "stars": 549,
                         "topics": [
                           "research"
                         ]
@@ -707,7 +707,7 @@
                         "open_issues": 147,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2383,
+                        "stars": 2385,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -869,7 +869,7 @@
                         "open_issues": 78,
                         "owner": "NVlabs",
                         "repo": "VILA",
-                        "stars": 3861,
+                        "stars": 3862,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -1952,7 +1952,7 @@
                         "open_issues": 42,
                         "owner": "wenhaochai",
                         "repo": "MovieChat",
-                        "stars": 706,
+                        "stars": 707,
                         "topics": [
                           "computer-vision",
                           "dataset",
@@ -2585,7 +2585,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2023-10-22T10:01:48Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "Soldelli",
                 "repo": "MAD",
                 "stars": 177,
@@ -3032,7 +3032,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2383,
+                    "stars": 2385,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:55:08.871Z",
+    "last_updated": "2026-09-12T17:26:23.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3533,7 +3533,7 @@
       "open_issues": 7,
       "owner": "yunlong10",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3282,
+      "stars": 3283,
       "topics": []
     },
     "original_repository_sha": "3b47584c5f8ec6e3f19a0a027687c49a7fb57f31",
