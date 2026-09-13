@@ -25,7 +25,7 @@
                         "open_issues": 3,
                         "owner": "imagegridworth",
                         "repo": "IG-VLM",
-                        "stars": 138,
+                        "stars": 139,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -937,7 +937,7 @@
                         "open_issues": 125,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3499,
+                        "stars": 3500,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -1316,7 +1316,7 @@
                         "open_issues": 15,
                         "owner": "RenShuhuai-Andy",
                         "repo": "TimeChat",
-                        "stars": 426,
+                        "stars": 427,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -1459,7 +1459,7 @@
                         "open_issues": 20,
                         "owner": "csuhan",
                         "repo": "OneLLM",
-                        "stars": 667,
+                        "stars": 668,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -2007,7 +2007,7 @@
                         "open_issues": 125,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3499,
+                        "stars": 3500,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -2184,7 +2184,7 @@
                         "open_issues": 1,
                         "owner": "reacher-z",
                         "repo": "vidground",
-                        "stars": 4,
+                        "stars": 11,
                         "topics": [
                           "arxiv",
                           "deep-learning",
@@ -2380,7 +2380,7 @@
                     "open_issues": 15,
                     "owner": "RenShuhuai-Andy",
                     "repo": "TimeChat",
-                    "stars": 426,
+                    "stars": 427,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3154,7 +3154,7 @@
                 "open_issues": 12,
                 "owner": "zai-org",
                 "repo": "LVBench",
-                "stars": 148,
+                "stars": 149,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:26:23.328Z",
+    "last_updated": "2026-09-13T17:38:55.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3533,7 +3533,7 @@
       "open_issues": 7,
       "owner": "yunlong10",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3283,
+      "stars": 3284,
       "topics": []
     },
     "original_repository_sha": "3b47584c5f8ec6e3f19a0a027687c49a7fb57f31",
