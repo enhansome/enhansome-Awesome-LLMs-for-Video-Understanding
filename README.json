@@ -412,7 +412,7 @@
                         "open_issues": 29,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1526,
+                        "stars": 1527,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -508,7 +508,7 @@
                         "open_issues": 75,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3350,
+                        "stars": 3351,
                         "topics": [
                           "big-model",
                           "captioning-videos",
@@ -707,7 +707,7 @@
                         "open_issues": 147,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2385,
+                        "stars": 2386,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -934,7 +934,7 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2024-12-03T02:58:46Z",
-                        "open_issues": 125,
+                        "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
                         "stars": 3500,
@@ -1250,7 +1250,7 @@
                         "language": "Python",
                         "license": null,
                         "last_commit": "2024-04-29T15:59:41Z",
-                        "open_issues": 3,
+                        "open_issues": 4,
                         "owner": "yellow-binary-tree",
                         "repo": "HawkEye",
                         "stars": 47,
@@ -1387,7 +1387,7 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2024-12-10T01:12:51Z",
-                        "open_issues": 7,
+                        "open_issues": 8,
                         "owner": "gyxxyg",
                         "repo": "VTG-LLM",
                         "stars": 131,
@@ -1414,7 +1414,7 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-01-13T03:56:32Z",
-                        "open_issues": 0,
+                        "open_issues": 1,
                         "owner": "YoucanBaby",
                         "repo": "VTG-GPT",
                         "stars": 112,
@@ -1515,7 +1515,7 @@
                         "open_issues": 75,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3350,
+                        "stars": 3351,
                         "topics": [
                           "big-model",
                           "captioning-videos",
@@ -2004,7 +2004,7 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2024-12-03T02:58:46Z",
-                        "open_issues": 125,
+                        "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
                         "stars": 3500,
@@ -2184,7 +2184,7 @@
                         "open_issues": 1,
                         "owner": "reacher-z",
                         "repo": "vidground",
-                        "stars": 11,
+                        "stars": 12,
                         "topics": [
                           "arxiv",
                           "deep-learning",
@@ -2316,7 +2316,7 @@
                     "open_issues": 75,
                     "owner": "OpenGVLab",
                     "repo": "Ask-Anything",
-                    "stars": 3350,
+                    "stars": 3351,
                     "topics": [
                       "big-model",
                       "captioning-videos",
@@ -3032,7 +3032,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2385,
+                    "stars": 2386,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3275,7 +3275,7 @@
                 "open_issues": 75,
                 "owner": "OpenGVLab",
                 "repo": "Ask-Anything",
-                "stars": 3350,
+                "stars": 3351,
                 "topics": [
                   "big-model",
                   "captioning-videos",
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T17:38:55.230Z",
+    "last_updated": "2026-09-14T19:35:46.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
