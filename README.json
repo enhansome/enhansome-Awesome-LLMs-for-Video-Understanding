@@ -412,7 +412,7 @@
                         "open_issues": 29,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1527,
+                        "stars": 1528,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -707,7 +707,7 @@
                         "open_issues": 147,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2386,
+                        "stars": 2387,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -937,7 +937,7 @@
                         "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3500,
+                        "stars": 3502,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -1105,7 +1105,7 @@
                         "open_issues": 25,
                         "owner": "X-PLUG",
                         "repo": "Youku-mPLUG",
-                        "stars": 310,
+                        "stars": 311,
                         "topics": [
                           "benchmark",
                           "chinese",
@@ -1494,7 +1494,7 @@
                         "open_issues": 2,
                         "owner": "mutonix",
                         "repo": "Vript",
-                        "stars": 162,
+                        "stars": 163,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -1919,7 +1919,7 @@
                         "open_issues": 25,
                         "owner": "X-PLUG",
                         "repo": "Youku-mPLUG",
-                        "stars": 310,
+                        "stars": 311,
                         "topics": [
                           "benchmark",
                           "chinese",
@@ -2007,7 +2007,7 @@
                         "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3500,
+                        "stars": 3502,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -2180,11 +2180,11 @@
                         "id": 1204688962,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-09-10T09:21:03Z",
+                        "last_commit": "2026-09-15T05:43:47Z",
                         "open_issues": 1,
                         "owner": "reacher-z",
                         "repo": "vidground",
-                        "stars": 12,
+                        "stars": 16,
                         "topics": [
                           "arxiv",
                           "deep-learning",
@@ -2609,7 +2609,7 @@
                 "open_issues": 25,
                 "owner": "X-PLUG",
                 "repo": "Youku-mPLUG",
-                "stars": 310,
+                "stars": 311,
                 "topics": [
                   "benchmark",
                   "chinese",
@@ -2999,7 +2999,7 @@
                     "open_issues": 25,
                     "owner": "X-PLUG",
                     "repo": "Youku-mPLUG",
-                    "stars": 310,
+                    "stars": 311,
                     "topics": [
                       "benchmark",
                       "chinese",
@@ -3032,7 +3032,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2386,
+                    "stars": 2387,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3221,7 +3221,7 @@
                 "open_issues": 25,
                 "owner": "X-PLUG",
                 "repo": "Youku-mPLUG",
-                "stars": 310,
+                "stars": 311,
                 "topics": [
                   "benchmark",
                   "chinese",
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:35:46.557Z",
+    "last_updated": "2026-09-15T18:28:38.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3530,10 +3530,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-08-24T08:22:10Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "yunlong10",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3284,
+      "stars": 3285,
       "topics": []
     },
     "original_repository_sha": "3b47584c5f8ec6e3f19a0a027687c49a7fb57f31",
