@@ -508,7 +508,7 @@
                         "open_issues": 75,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3352,
+                        "stars": 3353,
                         "topics": [
                           "big-model",
                           "captioning-videos",
@@ -937,7 +937,7 @@
                         "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3502,
+                        "stars": 3503,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -1138,7 +1138,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3439,
+                        "stars": 3440,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -1515,7 +1515,7 @@
                         "open_issues": 75,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3352,
+                        "stars": 3353,
                         "topics": [
                           "big-model",
                           "captioning-videos",
@@ -2007,7 +2007,7 @@
                         "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3502,
+                        "stars": 3503,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -2184,7 +2184,7 @@
                         "open_issues": 1,
                         "owner": "reacher-z",
                         "repo": "vidground",
-                        "stars": 23,
+                        "stars": 31,
                         "topics": [
                           "arxiv",
                           "deep-learning",
@@ -2222,7 +2222,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3439,
+                        "stars": 3440,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -2316,7 +2316,7 @@
                     "open_issues": 75,
                     "owner": "OpenGVLab",
                     "repo": "Ask-Anything",
-                    "stars": 3352,
+                    "stars": 3353,
                     "topics": [
                       "big-model",
                       "captioning-videos",
@@ -3109,7 +3109,7 @@
                     "open_issues": 65,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "Otter",
-                    "stars": 3439,
+                    "stars": 3440,
                     "topics": [
                       "artificial-inteligence",
                       "chatgpt",
@@ -3275,7 +3275,7 @@
                 "open_issues": 75,
                 "owner": "OpenGVLab",
                 "repo": "Ask-Anything",
-                "stars": 3352,
+                "stars": 3353,
                 "topics": [
                   "big-model",
                   "captioning-videos",
@@ -3335,7 +3335,7 @@
                 "open_issues": 11,
                 "owner": "MME-Benchmarks",
                 "repo": "Video-MME",
-                "stars": 791,
+                "stars": 792,
                 "topics": [
                   "large-language-models",
                   "large-vision-language-models",
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:26:07.395Z",
+    "last_updated": "2026-09-17T18:33:17.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
