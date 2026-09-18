@@ -412,7 +412,7 @@
                         "open_issues": 29,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1529,
+                        "stars": 1533,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -663,7 +663,7 @@
                         "open_issues": 30,
                         "owner": "bytedance",
                         "repo": "tarsier",
-                        "stars": 549,
+                        "stars": 550,
                         "topics": [
                           "research"
                         ]
@@ -707,7 +707,7 @@
                         "open_issues": 147,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2388,
+                        "stars": 2389,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -869,7 +869,7 @@
                         "open_issues": 78,
                         "owner": "NVlabs",
                         "repo": "VILA",
-                        "stars": 3862,
+                        "stars": 3865,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -890,7 +890,7 @@
                         "open_issues": 20,
                         "owner": "PKU-YuanGroup",
                         "repo": "Chat-UniVi",
-                        "stars": 942,
+                        "stars": 943,
                         "topics": [
                           "image-understanding",
                           "large-language-models",
@@ -2032,7 +2032,7 @@
                         "open_issues": 20,
                         "owner": "PKU-YuanGroup",
                         "repo": "Chat-UniVi",
-                        "stars": 942,
+                        "stars": 943,
                         "topics": [
                           "image-understanding",
                           "large-language-models",
@@ -2184,7 +2184,7 @@
                         "open_issues": 1,
                         "owner": "reacher-z",
                         "repo": "vidground",
-                        "stars": 31,
+                        "stars": 37,
                         "topics": [
                           "arxiv",
                           "deep-learning",
@@ -3032,7 +3032,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2388,
+                    "stars": 2389,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T18:33:17.889Z",
+    "last_updated": "2026-09-18T17:52:38.757Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
