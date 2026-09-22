@@ -409,10 +409,10 @@
                         "language": null,
                         "license": "Apache-2.0",
                         "last_commit": "2026-08-24T07:11:01Z",
-                        "open_issues": 29,
+                        "open_issues": 30,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1535,
+                        "stars": 1536,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -660,7 +660,7 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2025-08-14T02:38:18Z",
-                        "open_issues": 30,
+                        "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "tarsier",
                         "stars": 552,
@@ -869,7 +869,7 @@
                         "open_issues": 78,
                         "owner": "NVlabs",
                         "repo": "VILA",
-                        "stars": 3863,
+                        "stars": 3864,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -937,7 +937,7 @@
                         "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3503,
+                        "stars": 3504,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -1138,7 +1138,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3441,
+                        "stars": 3440,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -2007,7 +2007,7 @@
                         "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3503,
+                        "stars": 3504,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -2222,7 +2222,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3441,
+                        "stars": 3440,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -3109,7 +3109,7 @@
                     "open_issues": 65,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "Otter",
-                    "stars": 3441,
+                    "stars": 3440,
                     "topics": [
                       "artificial-inteligence",
                       "chatgpt",
@@ -3558,7 +3558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T19:44:12.963Z",
+    "last_updated": "2026-09-22T18:16:47.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
