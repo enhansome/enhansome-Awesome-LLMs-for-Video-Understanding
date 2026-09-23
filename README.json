@@ -663,7 +663,7 @@
                         "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "tarsier",
-                        "stars": 552,
+                        "stars": 553,
                         "topics": [
                           "research"
                         ]
@@ -869,7 +869,7 @@
                         "open_issues": 78,
                         "owner": "NVlabs",
                         "repo": "VILA",
-                        "stars": 3864,
+                        "stars": 3865,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3154,7 +3154,7 @@
                 "open_issues": 12,
                 "owner": "zai-org",
                 "repo": "LVBench",
-                "stars": 150,
+                "stars": 151,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3254,7 +3254,7 @@
                 "open_issues": 1,
                 "owner": "llyx97",
                 "repo": "FETV",
-                "stars": 56,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3335,7 +3335,7 @@
                 "open_issues": 11,
                 "owner": "MME-Benchmarks",
                 "repo": "Video-MME",
-                "stars": 792,
+                "stars": 794,
                 "topics": [
                   "large-language-models",
                   "large-vision-language-models",
@@ -3558,7 +3558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T18:16:47.297Z",
+    "last_updated": "2026-09-23T18:38:15.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3570,7 +3570,7 @@
       "open_issues": 7,
       "owner": "yunlong10",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3286,
+      "stars": 3289,
       "topics": []
     },
     "original_repository_sha": "3fda29101b8cd23630690f0aea279db8035182ec",
