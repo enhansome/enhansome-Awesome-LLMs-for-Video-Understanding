@@ -314,6 +314,35 @@
                   "children": [
                     {
                       "node_type": "item",
+                      "title": "TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming",
+                      "description": "TLive-Omni 08/2026 code arXiv",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming",
+                        "homepage": null,
+                        "id": 1333860049,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-08-24T02:20:14Z",
+                        "open_issues": 2,
+                        "owner": "TaoLiveAIGC",
+                        "repo": "TLive-Omni",
+                        "stars": 130,
+                        "topics": [
+                          "audio-understanding",
+                          "large-language-models",
+                          "multimodal-large-language-models",
+                          "omni",
+                          "omni-modal",
+                          "omni-modal-video-understanding",
+                          "video-understanding"
+                        ]
+                      },
+                      "first_seen": "2026-09-24T18:39:57.528Z"
+                    },
+                    {
+                      "node_type": "item",
                       "title": "Artemis towards referential understanding in complex videos",
                       "description": "Artemis 06/2024 code arXiv",
                       "children": [],
@@ -707,7 +736,7 @@
                         "open_issues": 147,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2392,
+                        "stars": 2394,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -869,7 +898,7 @@
                         "open_issues": 78,
                         "owner": "NVlabs",
                         "repo": "VILA",
-                        "stars": 3865,
+                        "stars": 3864,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -890,7 +919,7 @@
                         "open_issues": 20,
                         "owner": "PKU-YuanGroup",
                         "repo": "Chat-UniVi",
-                        "stars": 943,
+                        "stars": 944,
                         "topics": [
                           "image-understanding",
                           "large-language-models",
@@ -1105,7 +1134,7 @@
                         "open_issues": 25,
                         "owner": "X-PLUG",
                         "repo": "Youku-mPLUG",
-                        "stars": 311,
+                        "stars": 312,
                         "topics": [
                           "benchmark",
                           "chinese",
@@ -1919,7 +1948,7 @@
                         "open_issues": 25,
                         "owner": "X-PLUG",
                         "repo": "Youku-mPLUG",
-                        "stars": 311,
+                        "stars": 312,
                         "topics": [
                           "benchmark",
                           "chinese",
@@ -2032,7 +2061,7 @@
                         "open_issues": 20,
                         "owner": "PKU-YuanGroup",
                         "repo": "Chat-UniVi",
-                        "stars": 943,
+                        "stars": 944,
                         "topics": [
                           "image-understanding",
                           "large-language-models",
@@ -2609,7 +2638,7 @@
                 "open_issues": 25,
                 "owner": "X-PLUG",
                 "repo": "Youku-mPLUG",
-                "stars": 311,
+                "stars": 312,
                 "topics": [
                   "benchmark",
                   "chinese",
@@ -2999,7 +3028,7 @@
                     "open_issues": 25,
                     "owner": "X-PLUG",
                     "repo": "Youku-mPLUG",
-                    "stars": 311,
+                    "stars": 312,
                     "topics": [
                       "benchmark",
                       "chinese",
@@ -3032,7 +3061,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2392,
+                    "stars": 2394,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3221,7 +3250,7 @@
                 "open_issues": 25,
                 "owner": "X-PLUG",
                 "repo": "Youku-mPLUG",
-                "stars": 311,
+                "stars": 312,
                 "topics": [
                   "benchmark",
                   "chinese",
@@ -3335,7 +3364,7 @@
                 "open_issues": 11,
                 "owner": "MME-Benchmarks",
                 "repo": "Video-MME",
-                "stars": 794,
+                "stars": 796,
                 "topics": [
                   "large-language-models",
                   "large-vision-language-models",
@@ -3558,7 +3587,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T18:38:15.657Z",
+    "last_updated": "2026-09-24T18:39:57.528Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3566,14 +3595,14 @@
       "id": 666960664,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-21T00:16:00Z",
+      "last_commit": "2026-09-24T10:37:19Z",
       "open_issues": 7,
       "owner": "yunlong10",
       "repo": "Awesome-LLMs-for-Video-Understanding",
       "stars": 3289,
       "topics": []
     },
-    "original_repository_sha": "3fda29101b8cd23630690f0aea279db8035182ec",
+    "original_repository_sha": "bef5c4f0ddfecc15c6b2ffa7d4c1bff6d367c84c",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLMs-for-Video-Understanding",
     "enhanced_repository_description": null,
     "title": "Awesome-LLMs-for-Video-Understanding with stars"
