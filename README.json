@@ -169,7 +169,7 @@
                         "open_issues": 19,
                         "owner": "facebookresearch",
                         "repo": "LaViLa",
-                        "stars": 534,
+                        "stars": 535,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -328,7 +328,7 @@
                         "open_issues": 2,
                         "owner": "TaoLiveAIGC",
                         "repo": "TLive-Omni",
-                        "stars": 130,
+                        "stars": 139,
                         "topics": [
                           "audio-understanding",
                           "large-language-models",
@@ -441,7 +441,7 @@
                         "open_issues": 30,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1536,
+                        "stars": 1537,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -736,7 +736,7 @@
                         "open_issues": 147,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2394,
+                        "stars": 2395,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -945,7 +945,7 @@
                         "open_issues": 44,
                         "owner": "JIA-Lab-research",
                         "repo": "LLaMA-VID",
-                        "stars": 861,
+                        "stars": 862,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -966,7 +966,7 @@
                         "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3504,
+                        "stars": 3502,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -1753,7 +1753,7 @@
                     "open_issues": 19,
                     "owner": "facebookresearch",
                     "repo": "LaViLa",
-                    "stars": 534,
+                    "stars": 535,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:41:16.929Z"
@@ -2036,7 +2036,7 @@
                         "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3504,
+                        "stars": 3502,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -2087,7 +2087,7 @@
                         "open_issues": 44,
                         "owner": "JIA-Lab-research",
                         "repo": "LLaMA-VID",
-                        "stars": 861,
+                        "stars": 862,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -2832,7 +2832,7 @@
                 "open_issues": 0,
                 "owner": "YunseokJANG",
                 "repo": "tgif-qa",
-                "stars": 180,
+                "stars": 181,
                 "topics": [
                   "cvpr2017",
                   "snuvl",
@@ -3061,7 +3061,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2394,
+                    "stars": 2395,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3587,7 +3587,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:39:57.528Z",
+    "last_updated": "2026-09-25T18:52:54.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
