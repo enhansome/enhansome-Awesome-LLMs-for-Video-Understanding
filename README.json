@@ -265,7 +265,7 @@
                         "open_issues": 5,
                         "owner": "Vision-CAIR",
                         "repo": "ChatCaptioner",
-                        "stars": 468,
+                        "stars": 469,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -328,7 +328,7 @@
                         "open_issues": 2,
                         "owner": "TaoLiveAIGC",
                         "repo": "TLive-Omni",
-                        "stars": 139,
+                        "stars": 147,
                         "topics": [
                           "audio-understanding",
                           "large-language-models",
@@ -438,10 +438,10 @@
                         "language": null,
                         "license": "Apache-2.0",
                         "last_commit": "2026-08-24T07:11:01Z",
-                        "open_issues": 30,
+                        "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1537,
+                        "stars": 1538,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -1634,7 +1634,7 @@
                     "open_issues": 5,
                     "owner": "Vision-CAIR",
                     "repo": "ChatCaptioner",
-                    "stars": 468,
+                    "stars": 469,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3183,7 +3183,7 @@
                 "open_issues": 12,
                 "owner": "zai-org",
                 "repo": "LVBench",
-                "stars": 151,
+                "stars": 152,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3587,7 +3587,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:52:54.955Z",
+    "last_updated": "2026-09-26T18:01:45.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3596,10 +3596,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-24T10:37:19Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "yunlong10",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3289,
+      "stars": 3290,
       "topics": []
     },
     "original_repository_sha": "bef5c4f0ddfecc15c6b2ffa7d4c1bff6d367c84c",
