@@ -328,7 +328,7 @@
                         "open_issues": 2,
                         "owner": "TaoLiveAIGC",
                         "repo": "TLive-Omni",
-                        "stars": 147,
+                        "stars": 173,
                         "topics": [
                           "audio-understanding",
                           "large-language-models",
@@ -736,7 +736,7 @@
                         "open_issues": 147,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2395,
+                        "stars": 2396,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -898,7 +898,7 @@
                         "open_issues": 78,
                         "owner": "NVlabs",
                         "repo": "VILA",
-                        "stars": 3864,
+                        "stars": 3863,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -1071,7 +1071,7 @@
                         "open_issues": 27,
                         "owner": "mbzuai-oryx",
                         "repo": "Video-ChatGPT",
-                        "stars": 1508,
+                        "stars": 1509,
                         "topics": [
                           "chatbot",
                           "clip",
@@ -1862,7 +1862,7 @@
                         "open_issues": 27,
                         "owner": "mbzuai-oryx",
                         "repo": "Video-ChatGPT",
-                        "stars": 1508,
+                        "stars": 1509,
                         "topics": [
                           "chatbot",
                           "clip",
@@ -2227,6 +2227,33 @@
                         ]
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World",
+                      "description": "Spatial-Interactor 09/2026 code arXiv",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Learning Spatial Reasoning through Interaction with the Observable Physical World",
+                        "homepage": "https://zju-omniai.github.io/Spatial-Interactor/",
+                        "id": 1368647527,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-09-23T17:22:16Z",
+                        "open_issues": 0,
+                        "owner": "ZJU-OmniAI",
+                        "repo": "Spatial-Interactor",
+                        "stars": 82,
+                        "topics": [
+                          "embodied-ai",
+                          "on-policy-distillation",
+                          "spatial-reasoning",
+                          "video-understanding",
+                          "vision-language-model"
+                        ]
+                      },
+                      "first_seen": "2026-09-27T18:38:59.461Z"
                     }
                   ],
                   "description": null,
@@ -3061,7 +3088,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2395,
+                    "stars": 2396,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3364,7 +3391,7 @@
                 "open_issues": 11,
                 "owner": "MME-Benchmarks",
                 "repo": "Video-MME",
-                "stars": 796,
+                "stars": 795,
                 "topics": [
                   "large-language-models",
                   "large-vision-language-models",
@@ -3587,7 +3614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T18:01:45.462Z",
+    "last_updated": "2026-09-27T18:38:59.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3595,14 +3622,14 @@
       "id": 666960664,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-24T10:37:19Z",
-      "open_issues": 8,
+      "last_commit": "2026-09-27T07:07:06Z",
+      "open_issues": 7,
       "owner": "yunlong10",
       "repo": "Awesome-LLMs-for-Video-Understanding",
       "stars": 3290,
       "topics": []
     },
-    "original_repository_sha": "bef5c4f0ddfecc15c6b2ffa7d4c1bff6d367c84c",
+    "original_repository_sha": "bc8c62236cdd1e41d06772a47f0944025a8f1b32",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLMs-for-Video-Understanding",
     "enhanced_repository_description": null,
     "title": "Awesome-LLMs-for-Video-Understanding with stars"
