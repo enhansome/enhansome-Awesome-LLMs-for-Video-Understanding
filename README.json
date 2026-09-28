@@ -328,7 +328,7 @@
                         "open_issues": 2,
                         "owner": "TaoLiveAIGC",
                         "repo": "TLive-Omni",
-                        "stars": 173,
+                        "stars": 181,
                         "topics": [
                           "audio-understanding",
                           "large-language-models",
@@ -736,7 +736,7 @@
                         "open_issues": 147,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2396,
+                        "stars": 2397,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -966,7 +966,7 @@
                         "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3502,
+                        "stars": 3504,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -1071,7 +1071,7 @@
                         "open_issues": 27,
                         "owner": "mbzuai-oryx",
                         "repo": "Video-ChatGPT",
-                        "stars": 1509,
+                        "stars": 1510,
                         "topics": [
                           "chatbot",
                           "clip",
@@ -1167,7 +1167,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3440,
+                        "stars": 3443,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -1862,7 +1862,7 @@
                         "open_issues": 27,
                         "owner": "mbzuai-oryx",
                         "repo": "Video-ChatGPT",
-                        "stars": 1509,
+                        "stars": 1510,
                         "topics": [
                           "chatbot",
                           "clip",
@@ -2036,7 +2036,7 @@
                         "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3502,
+                        "stars": 3504,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -2244,7 +2244,7 @@
                         "open_issues": 0,
                         "owner": "ZJU-OmniAI",
                         "repo": "Spatial-Interactor",
-                        "stars": 82,
+                        "stars": 83,
                         "topics": [
                           "embodied-ai",
                           "on-policy-distillation",
@@ -2278,7 +2278,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3440,
+                        "stars": 3443,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -2623,7 +2623,7 @@
                 "open_issues": 2,
                 "owner": "raingo",
                 "repo": "TGIF-Release",
-                "stars": 118,
+                "stars": 119,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3088,7 +3088,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2396,
+                    "stars": 2397,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3165,7 +3165,7 @@
                     "open_issues": 65,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "Otter",
-                    "stars": 3440,
+                    "stars": 3443,
                     "topics": [
                       "artificial-inteligence",
                       "chatgpt",
@@ -3614,7 +3614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:38:59.461Z",
+    "last_updated": "2026-09-28T20:48:35.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3626,7 +3626,7 @@
       "open_issues": 7,
       "owner": "yunlong10",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3290,
+      "stars": 3291,
       "topics": []
     },
     "original_repository_sha": "bc8c62236cdd1e41d06772a47f0944025a8f1b32",
