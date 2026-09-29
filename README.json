@@ -328,7 +328,7 @@
                         "open_issues": 2,
                         "owner": "TaoLiveAIGC",
                         "repo": "TLive-Omni",
-                        "stars": 181,
+                        "stars": 196,
                         "topics": [
                           "audio-understanding",
                           "large-language-models",
@@ -692,7 +692,7 @@
                         "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "tarsier",
-                        "stars": 553,
+                        "stars": 554,
                         "topics": [
                           "research"
                         ]
@@ -736,7 +736,7 @@
                         "open_issues": 147,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2397,
+                        "stars": 2398,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -1071,7 +1071,7 @@
                         "open_issues": 27,
                         "owner": "mbzuai-oryx",
                         "repo": "Video-ChatGPT",
-                        "stars": 1510,
+                        "stars": 1511,
                         "topics": [
                           "chatbot",
                           "clip",
@@ -1862,7 +1862,7 @@
                         "open_issues": 27,
                         "owner": "mbzuai-oryx",
                         "repo": "Video-ChatGPT",
-                        "stars": 1510,
+                        "stars": 1511,
                         "topics": [
                           "chatbot",
                           "clip",
@@ -2244,7 +2244,7 @@
                         "open_issues": 0,
                         "owner": "ZJU-OmniAI",
                         "repo": "Spatial-Interactor",
-                        "stars": 83,
+                        "stars": 85,
                         "topics": [
                           "embodied-ai",
                           "on-policy-distillation",
@@ -3088,7 +3088,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2397,
+                    "stars": 2398,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3391,7 +3391,7 @@
                 "open_issues": 11,
                 "owner": "MME-Benchmarks",
                 "repo": "Video-MME",
-                "stars": 795,
+                "stars": 798,
                 "topics": [
                   "large-language-models",
                   "large-vision-language-models",
@@ -3614,7 +3614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T20:48:35.872Z",
+    "last_updated": "2026-09-29T19:38:30.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3626,7 +3626,7 @@
       "open_issues": 7,
       "owner": "yunlong10",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3291,
+      "stars": 3292,
       "topics": []
     },
     "original_repository_sha": "bc8c62236cdd1e41d06772a47f0944025a8f1b32",
