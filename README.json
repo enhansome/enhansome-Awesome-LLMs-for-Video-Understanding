@@ -328,7 +328,7 @@
                         "open_issues": 2,
                         "owner": "TaoLiveAIGC",
                         "repo": "TLive-Omni",
-                        "stars": 196,
+                        "stars": 211,
                         "topics": [
                           "audio-understanding",
                           "large-language-models",
@@ -1071,7 +1071,7 @@
                         "open_issues": 27,
                         "owner": "mbzuai-oryx",
                         "repo": "Video-ChatGPT",
-                        "stars": 1511,
+                        "stars": 1512,
                         "topics": [
                           "chatbot",
                           "clip",
@@ -1465,7 +1465,7 @@
                         "license": null,
                         "last_commit": "2024-11-24T08:04:17Z",
                         "open_issues": 6,
-                        "owner": "DCDmllm",
+                        "owner": "ZJU4EmbodiedAI",
                         "repo": "Momentor",
                         "stars": 81,
                         "topics": []
@@ -1862,7 +1862,7 @@
                         "open_issues": 27,
                         "owner": "mbzuai-oryx",
                         "repo": "Video-ChatGPT",
-                        "stars": 1511,
+                        "stars": 1512,
                         "topics": [
                           "chatbot",
                           "clip",
@@ -2244,7 +2244,7 @@
                         "open_issues": 0,
                         "owner": "ZJU-OmniAI",
                         "repo": "Spatial-Interactor",
-                        "stars": 85,
+                        "stars": 83,
                         "topics": [
                           "embodied-ai",
                           "on-policy-distillation",
@@ -3210,7 +3210,7 @@
                 "open_issues": 12,
                 "owner": "zai-org",
                 "repo": "LVBench",
-                "stars": 152,
+                "stars": 153,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3614,7 +3614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T19:38:30.337Z",
+    "last_updated": "2026-09-30T19:37:34.511Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
