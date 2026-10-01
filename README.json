@@ -328,7 +328,7 @@
                         "open_issues": 2,
                         "owner": "TaoLiveAIGC",
                         "repo": "TLive-Omni",
-                        "stars": 211,
+                        "stars": 235,
                         "topics": [
                           "audio-understanding",
                           "large-language-models",
@@ -736,7 +736,7 @@
                         "open_issues": 147,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2398,
+                        "stars": 2399,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -898,7 +898,7 @@
                         "open_issues": 78,
                         "owner": "NVlabs",
                         "repo": "VILA",
-                        "stars": 3863,
+                        "stars": 3864,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -1221,7 +1221,7 @@
                         "open_issues": 0,
                         "owner": "RAIVNLab",
                         "repo": "trajvit",
-                        "stars": 67,
+                        "stars": 63,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -2623,7 +2623,7 @@
                 "open_issues": 2,
                 "owner": "raingo",
                 "repo": "TGIF-Release",
-                "stars": 119,
+                "stars": 120,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3088,7 +3088,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2398,
+                    "stars": 2399,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3614,7 +3614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T19:37:34.511Z",
+    "last_updated": "2026-10-01T19:49:14.739Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
