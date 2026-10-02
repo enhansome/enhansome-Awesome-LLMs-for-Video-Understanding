@@ -328,7 +328,7 @@
                         "open_issues": 2,
                         "owner": "TaoLiveAIGC",
                         "repo": "TLive-Omni",
-                        "stars": 235,
+                        "stars": 249,
                         "topics": [
                           "audio-understanding",
                           "large-language-models",
@@ -736,7 +736,7 @@
                         "open_issues": 147,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2399,
+                        "stars": 2401,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -898,7 +898,7 @@
                         "open_issues": 78,
                         "owner": "NVlabs",
                         "repo": "VILA",
-                        "stars": 3864,
+                        "stars": 3865,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -2497,12 +2497,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Audio-Visual Even Evaluation (AVE-2) dataset",
-                    "homepage": "https://huggingface.co/datasets/ali-vosoughi/ave-2",
+                    "description": "Projected audio tokens in a multimodal LLM: retrieval versus grounded generation (preprint); AVE-2 dataset",
+                    "homepage": "https://ali-vosoughi.github.io/SoundCLIP/",
                     "id": 970950320,
                     "language": "HTML",
-                    "license": null,
-                    "last_commit": "2025-10-06T04:38:36Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-02T01:51:47Z",
                     "open_issues": 1,
                     "owner": "ali-vosoughi",
                     "repo": "SoundCLIP",
@@ -3088,7 +3088,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2399,
+                    "stars": 2401,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3210,7 +3210,7 @@
                 "open_issues": 12,
                 "owner": "zai-org",
                 "repo": "LVBench",
-                "stars": 153,
+                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3614,7 +3614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:49:14.739Z",
+    "last_updated": "2026-10-02T19:31:08.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3626,7 +3626,7 @@
       "open_issues": 7,
       "owner": "yunlong10",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3292,
+      "stars": 3293,
       "topics": []
     },
     "original_repository_sha": "bc8c62236cdd1e41d06772a47f0944025a8f1b32",
