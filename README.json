@@ -328,7 +328,7 @@
                         "open_issues": 2,
                         "owner": "TaoLiveAIGC",
                         "repo": "TLive-Omni",
-                        "stars": 260,
+                        "stars": 270,
                         "topics": [
                           "audio-understanding",
                           "large-language-models",
@@ -399,7 +399,7 @@
                         "open_issues": 29,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "LongVA",
-                        "stars": 412,
+                        "stars": 413,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -537,7 +537,7 @@
                         "open_issues": 75,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3354,
+                        "stars": 3355,
                         "topics": [
                           "big-model",
                           "captioning-videos",
@@ -1167,7 +1167,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3443,
+                        "stars": 3444,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -1544,7 +1544,7 @@
                         "open_issues": 75,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3354,
+                        "stars": 3355,
                         "topics": [
                           "big-model",
                           "captioning-videos",
@@ -2278,7 +2278,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3443,
+                        "stars": 3444,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -2372,7 +2372,7 @@
                     "open_issues": 75,
                     "owner": "OpenGVLab",
                     "repo": "Ask-Anything",
-                    "stars": 3354,
+                    "stars": 3355,
                     "topics": [
                       "big-model",
                       "captioning-videos",
@@ -3165,7 +3165,7 @@
                     "open_issues": 65,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "Otter",
-                    "stars": 3443,
+                    "stars": 3444,
                     "topics": [
                       "artificial-inteligence",
                       "chatgpt",
@@ -3331,7 +3331,7 @@
                 "open_issues": 75,
                 "owner": "OpenGVLab",
                 "repo": "Ask-Anything",
-                "stars": 3354,
+                "stars": 3355,
                 "topics": [
                   "big-model",
                   "captioning-videos",
@@ -3614,7 +3614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:26:17.778Z",
+    "last_updated": "2026-10-03T18:16:03.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
