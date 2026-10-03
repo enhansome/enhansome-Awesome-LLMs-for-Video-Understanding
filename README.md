@@ -8,7 +8,7 @@
 
 <h5 align="center">  
 
-**[Paper](https://ieeexplore.ieee.org/document/10982110)** | **[arXiv](https://arxiv.org/abs/2312.17432)** | **[Project Page](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,293 | 🐛 7 | 📅 2026-09-27**
+**[Paper](https://ieeexplore.ieee.org/document/10982110)** | **[arXiv](https://arxiv.org/abs/2312.17432)** | **[Project Page](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)**
 
 </h5>
 
@@ -23,7 +23,7 @@
 \[05/04/2025]
 
 🌟 Our Vid-LLM survey has been accepted to the IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)!
-👉 [IEEE Xplore](https://ieeexplore.ieee.org/document/10982110) | [GitHub](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,293 | 🐛 7 | 📅 2026-09-27
+👉 [IEEE Xplore](https://ieeexplore.ieee.org/document/10982110) | [GitHub](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)
 
 \[07/23/2024]
 
@@ -156,7 +156,7 @@ If you find our survey useful for your research, please cite the following paper
 
 | Title                                                                                                                                                          |      Model      |   Date  |                                                           Code                                                          |   Venue   |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | :-----: | :---------------------------------------------------------------------------------------------------------------------: | :-------: |
-| [**TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming**](https://arxiv.org/abs/2608.20958)                                            |    TLive-Omni   | 08/2026 |              [code](https://github.com/TaoLiveAIGC/TLive-Omni) ⭐ 249 \| 🐛 2 \| 🌐 Python \| 📅 2026-08-24              |   arXiv   |
+| [**TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming**](https://arxiv.org/abs/2608.20958)                                            |    TLive-Omni   | 08/2026 |              [code](https://github.com/TaoLiveAIGC/TLive-Omni) ⭐ 260 \| 🐛 2 \| 🌐 Python \| 📅 2026-08-24              |   arXiv   |
 | [**AuroraCap: Efficient, Performant Video Detailed Captioning and a New Benchmark**](https://arxiv.org/abs/2410.03051)                                         |    AuroraCap    | 10/2024 |                                   [project page](https://rese1f.github.io/aurora-web/)                                  |   arXiv   |
 | [**Artemis towards referential understanding in complex videos**](https://arxiv.org/abs/2406.00258)                                                            |     Artemis     | 06/2024 |                 [code](https://github.com/qiujihao19/Artemis) ⭐ 27 \| 🐛 3 \| 🌐 Python \| 📅 2025-04-08                |   arXiv   |
 | [**EmoLLM multimodal emotional understanding meets large language models**](https://arxiv.org/abs/2406.16442)                                                  |      EmoLLM     | 06/2024 |                          [code](https://github.com/yan9qu/EmoLLM) ⭐ 19 \| 🐛 2 \| 📅 2024-06-24                         |   arXiv   |
@@ -186,7 +186,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**Pegasus-v1 technical report**](https://arxiv.org/abs/2404.14687)                                                                                            |    Pegasus-v1   | 04/2024 |                                                         [code]()                                                        |   arXiv   |
 | [**PLLaVA : Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning**](https://arxiv.org/abs/2404.16994)                               |      PLLaVA     | 04/2024 |                                            [code](https://pllava.github.io/)                                            |   arXiv   |
 | [**ST-LLM: Large Language Models Are Effective Temporal Learners**](https://arxiv.org/abs/2404.00308)                                                          |      ST-LLM     | 04/2024 |                [code](https://github.com/TencentARC/ST-LLM) ⭐ 156 \| 🐛 10 \| 🌐 Python \| 📅 2024-09-10                |   arXiv   |
-| [**Tarsier recipes for training and evaluating large video description models**](https://arxiv.org/abs/2407.00634)                                             |     Tarsier     | 07/2024 |                [code](https://github.com/bytedance/tarsier) ⭐ 554 \| 🐛 31 \| 🌐 Python \| 📅 2025-08-14                |   arXiv   |
+| [**Tarsier recipes for training and evaluating large video description models**](https://arxiv.org/abs/2407.00634)                                             |     Tarsier     | 07/2024 |                [code](https://github.com/bytedance/tarsier) ⭐ 553 \| 🐛 31 \| 🌐 Python \| 📅 2025-08-14                |   arXiv   |
 | [**X-VARS introducing explainability in football refereeing with multi-modal large language model**](https://arxiv.org/abs/2404.06332)                         |      X-VARS     | 04/2024 |                                                         [code]()                                                        |   arXiv   |
 | [**CAT: Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios**](https://arxiv.org/abs/2403.04640)                   |       CAT       | 03/2024 |                 [code](https://github.com/rikeilong/Bay-CAT) ⭐ 59 \| 🐛 6 \| 🌐 Python \| 📅 2024-09-04                 |   arXiv   |
 | [**InternVideo2 scaling video foundation models for multimodal video understanding**](https://arxiv.org/abs/2403.15377)                                        |   InternVideo2  | 03/2024 | [code](https://github.com/OpenGVLab/InternVideo/tree/main/InternVideo2) ⭐ 2,401 \| 🐛 147 \| 🌐 Python \| 📅 2026-07-02 |    ECCV   |
@@ -531,4 +531,4 @@ Our project wouldn't be possible without the contributions of these amazing peop
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
