@@ -328,7 +328,7 @@
                         "open_issues": 2,
                         "owner": "TaoLiveAIGC",
                         "repo": "TLive-Omni",
-                        "stars": 270,
+                        "stars": 291,
                         "topics": [
                           "audio-understanding",
                           "large-language-models",
@@ -441,7 +441,7 @@
                         "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1538,
+                        "stars": 1539,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -736,7 +736,7 @@
                         "open_issues": 147,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2401,
+                        "stars": 2402,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -919,7 +919,7 @@
                         "open_issues": 20,
                         "owner": "PKU-YuanGroup",
                         "repo": "Chat-UniVi",
-                        "stars": 944,
+                        "stars": 943,
                         "topics": [
                           "image-understanding",
                           "large-language-models",
@@ -1134,7 +1134,7 @@
                         "open_issues": 25,
                         "owner": "X-PLUG",
                         "repo": "Youku-mPLUG",
-                        "stars": 312,
+                        "stars": 313,
                         "topics": [
                           "benchmark",
                           "chinese",
@@ -1948,7 +1948,7 @@
                         "open_issues": 25,
                         "owner": "X-PLUG",
                         "repo": "Youku-mPLUG",
-                        "stars": 312,
+                        "stars": 313,
                         "topics": [
                           "benchmark",
                           "chinese",
@@ -2061,7 +2061,7 @@
                         "open_issues": 20,
                         "owner": "PKU-YuanGroup",
                         "repo": "Chat-UniVi",
-                        "stars": 944,
+                        "stars": 943,
                         "topics": [
                           "image-understanding",
                           "large-language-models",
@@ -2665,7 +2665,7 @@
                 "open_issues": 25,
                 "owner": "X-PLUG",
                 "repo": "Youku-mPLUG",
-                "stars": 312,
+                "stars": 313,
                 "topics": [
                   "benchmark",
                   "chinese",
@@ -3055,7 +3055,7 @@
                     "open_issues": 25,
                     "owner": "X-PLUG",
                     "repo": "Youku-mPLUG",
-                    "stars": 312,
+                    "stars": 313,
                     "topics": [
                       "benchmark",
                       "chinese",
@@ -3088,7 +3088,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2401,
+                    "stars": 2402,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3277,7 +3277,7 @@
                 "open_issues": 25,
                 "owner": "X-PLUG",
                 "repo": "Youku-mPLUG",
-                "stars": 312,
+                "stars": 313,
                 "topics": [
                   "benchmark",
                   "chinese",
@@ -3614,7 +3614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:16:03.452Z",
+    "last_updated": "2026-10-04T18:21:48.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
