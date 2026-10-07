@@ -328,7 +328,7 @@
                         "open_issues": 2,
                         "owner": "TaoLiveAIGC",
                         "repo": "TLive-Omni",
-                        "stars": 330,
+                        "stars": 351,
                         "topics": [
                           "audio-understanding",
                           "large-language-models",
@@ -945,7 +945,7 @@
                         "open_issues": 44,
                         "owner": "JIA-Lab-research",
                         "repo": "LLaMA-VID",
-                        "stars": 861,
+                        "stars": 862,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -966,7 +966,7 @@
                         "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3504,
+                        "stars": 3505,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -1167,7 +1167,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3443,
+                        "stars": 3444,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -2036,7 +2036,7 @@
                         "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3504,
+                        "stars": 3505,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -2087,7 +2087,7 @@
                         "open_issues": 44,
                         "owner": "JIA-Lab-research",
                         "repo": "LLaMA-VID",
-                        "stars": 861,
+                        "stars": 862,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -2278,7 +2278,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3443,
+                        "stars": 3444,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -2502,12 +2502,19 @@
                     "id": 970950320,
                     "language": "HTML",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T01:51:47Z",
+                    "last_commit": "2026-10-07T00:05:36Z",
                     "open_issues": 1,
                     "owner": "ali-vosoughi",
                     "repo": "SoundCLIP",
                     "stars": 1,
-                    "topics": []
+                    "topics": [
+                      "audio-language",
+                      "audio-visual",
+                      "dataset",
+                      "llava",
+                      "multimodal-llm",
+                      "retrieval"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:41:16.929Z"
                 },
@@ -3165,7 +3172,7 @@
                     "open_issues": 65,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "Otter",
-                    "stars": 3443,
+                    "stars": 3444,
                     "topics": [
                       "artificial-inteligence",
                       "chatgpt",
@@ -3210,7 +3217,7 @@
                 "open_issues": 12,
                 "owner": "zai-org",
                 "repo": "LVBench",
-                "stars": 154,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3391,7 +3398,7 @@
                 "open_issues": 11,
                 "owner": "MME-Benchmarks",
                 "repo": "Video-MME",
-                "stars": 798,
+                "stars": 799,
                 "topics": [
                   "large-language-models",
                   "large-vision-language-models",
@@ -3614,7 +3621,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T19:49:28.553Z",
+    "last_updated": "2026-10-07T20:09:10.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3626,7 +3633,7 @@
       "open_issues": 8,
       "owner": "yunlong10",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3292,
+      "stars": 3293,
       "topics": []
     },
     "original_repository_sha": "bc8c62236cdd1e41d06772a47f0944025a8f1b32",
