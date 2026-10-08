@@ -113,7 +113,7 @@
                         "open_issues": 22,
                         "owner": "CASIA-IVA-Lab",
                         "repo": "VAST",
-                        "stars": 302,
+                        "stars": 303,
                         "topics": [
                           "audio-language",
                           "cross-modality-pretraining",
@@ -328,7 +328,7 @@
                         "open_issues": 2,
                         "owner": "TaoLiveAIGC",
                         "repo": "TLive-Omni",
-                        "stars": 351,
+                        "stars": 353,
                         "topics": [
                           "audio-understanding",
                           "large-language-models",
@@ -438,7 +438,7 @@
                         "language": null,
                         "license": "Apache-2.0",
                         "last_commit": "2026-08-24T07:11:01Z",
-                        "open_issues": 31,
+                        "open_issues": 28,
                         "owner": "bytedance",
                         "repo": "SALMONN",
                         "stars": 1539,
@@ -945,7 +945,7 @@
                         "open_issues": 44,
                         "owner": "JIA-Lab-research",
                         "repo": "LLaMA-VID",
-                        "stars": 862,
+                        "stars": 861,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -966,7 +966,7 @@
                         "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3505,
+                        "stars": 3504,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -1167,7 +1167,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3444,
+                        "stars": 3445,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -1391,7 +1391,7 @@
                         "open_issues": 14,
                         "owner": "huangb23",
                         "repo": "VTimeLLM",
-                        "stars": 295,
+                        "stars": 294,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -1774,7 +1774,7 @@
                     "open_issues": 22,
                     "owner": "CASIA-IVA-Lab",
                     "repo": "VAST",
-                    "stars": 302,
+                    "stars": 303,
                     "topics": [
                       "audio-language",
                       "cross-modality-pretraining",
@@ -2036,7 +2036,7 @@
                         "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3505,
+                        "stars": 3504,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -2087,7 +2087,7 @@
                         "open_issues": 44,
                         "owner": "JIA-Lab-research",
                         "repo": "LLaMA-VID",
-                        "stars": 862,
+                        "stars": 861,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -2244,7 +2244,7 @@
                         "open_issues": 0,
                         "owner": "ZJU-OmniAI",
                         "repo": "Spatial-Interactor",
-                        "stars": 83,
+                        "stars": 84,
                         "topics": [
                           "embodied-ai",
                           "on-policy-distillation",
@@ -2278,7 +2278,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3444,
+                        "stars": 3445,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -2339,7 +2339,7 @@
                         "open_issues": 14,
                         "owner": "huangb23",
                         "repo": "VTimeLLM",
-                        "stars": 295,
+                        "stars": 294,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3137,7 +3137,7 @@
                     "open_issues": 22,
                     "owner": "CASIA-IVA-Lab",
                     "repo": "VAST",
-                    "stars": 302,
+                    "stars": 303,
                     "topics": [
                       "audio-language",
                       "cross-modality-pretraining",
@@ -3172,7 +3172,7 @@
                     "open_issues": 65,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "Otter",
-                    "stars": 3444,
+                    "stars": 3445,
                     "topics": [
                       "artificial-inteligence",
                       "chatgpt",
@@ -3263,7 +3263,7 @@
                 "open_issues": 0,
                 "owner": "google-deepmind",
                 "repo": "perception_test",
-                "stars": 259,
+                "stars": 258,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3621,7 +3621,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:09:10.772Z",
+    "last_updated": "2026-10-08T20:08:13.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
