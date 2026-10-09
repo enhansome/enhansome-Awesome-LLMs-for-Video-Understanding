@@ -437,7 +437,7 @@
                         "id": 677284959,
                         "language": null,
                         "license": "Apache-2.0",
-                        "last_commit": "2026-08-24T07:11:01Z",
+                        "last_commit": "2026-10-09T15:43:37Z",
                         "open_issues": 28,
                         "owner": "bytedance",
                         "repo": "SALMONN",
@@ -597,7 +597,7 @@
                         "open_issues": 42,
                         "owner": "wenhaochai",
                         "repo": "MovieChat",
-                        "stars": 706,
+                        "stars": 705,
                         "topics": [
                           "computer-vision",
                           "dataset",
@@ -1043,7 +1043,7 @@
                         "open_issues": 22,
                         "owner": "lyuchenyang",
                         "repo": "Macaw-LLM",
-                        "stars": 1591,
+                        "stars": 1592,
                         "topics": [
                           "deep-learning",
                           "language-model",
@@ -1895,7 +1895,7 @@
                         "open_issues": 22,
                         "owner": "lyuchenyang",
                         "repo": "Macaw-LLM",
-                        "stars": 1591,
+                        "stars": 1592,
                         "topics": [
                           "deep-learning",
                           "language-model",
@@ -1981,7 +1981,7 @@
                         "open_issues": 42,
                         "owner": "wenhaochai",
                         "repo": "MovieChat",
-                        "stars": 706,
+                        "stars": 705,
                         "topics": [
                           "computer-vision",
                           "dataset",
@@ -2240,11 +2240,11 @@
                         "id": 1368647527,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-09-23T17:22:16Z",
+                        "last_commit": "2026-10-09T17:16:54Z",
                         "open_issues": 0,
                         "owner": "ZJU-OmniAI",
                         "repo": "Spatial-Interactor",
-                        "stars": 84,
+                        "stars": 85,
                         "topics": [
                           "embodied-ai",
                           "on-policy-distillation",
@@ -3621,7 +3621,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:08:13.456Z",
+    "last_updated": "2026-10-09T19:45:53.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
