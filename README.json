@@ -437,11 +437,11 @@
                         "id": 677284959,
                         "language": null,
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-09T15:43:37Z",
+                        "last_commit": "2026-10-10T06:50:51Z",
                         "open_issues": 28,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1539,
+                        "stars": 1541,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -513,7 +513,7 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2025-01-23T04:20:22Z",
-                        "open_issues": 87,
+                        "open_issues": 88,
                         "owner": "DAMO-NLP-SG",
                         "repo": "VideoLLaMA2",
                         "stars": 1306,
@@ -736,7 +736,7 @@
                         "open_issues": 147,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2401,
+                        "stars": 2402,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -1104,7 +1104,7 @@
                         "open_issues": 69,
                         "owner": "DAMO-NLP-SG",
                         "repo": "Video-LLaMA",
-                        "stars": 3139,
+                        "stars": 3140,
                         "topics": [
                           "blip2",
                           "cross-modal-pretraining",
@@ -1446,7 +1446,7 @@
                         "open_issues": 1,
                         "owner": "YoucanBaby",
                         "repo": "VTG-GPT",
-                        "stars": 112,
+                        "stars": 113,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -1811,7 +1811,7 @@
                         "open_issues": 69,
                         "owner": "DAMO-NLP-SG",
                         "repo": "Video-LLaMA",
-                        "stars": 3139,
+                        "stars": 3140,
                         "topics": [
                           "blip2",
                           "cross-modal-pretraining",
@@ -2147,7 +2147,7 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2025-01-23T04:20:22Z",
-                        "open_issues": 87,
+                        "open_issues": 88,
                         "owner": "DAMO-NLP-SG",
                         "repo": "VideoLLaMA2",
                         "stars": 1306,
@@ -2546,6 +2546,44 @@
                     ]
                   },
                   "first_seen": "2026-08-28T23:41:16.929Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Foresight: Planning Future Perception in Streaming VLMs without Retraining",
+                  "description": "Foresight 10/2026 code project page arXiv",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Foresight: Planning Future Perception in Streaming VLMs without Retraining (training-free proactive streaming video LLM). arXiv 2610.03123",
+                    "homepage": "https://thenaivekid.github.io/foresight/",
+                    "id": 1401139812,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-06T16:39:30Z",
+                    "open_issues": 0,
+                    "owner": "thenaivekid",
+                    "repo": "foresight",
+                    "stars": 0,
+                    "topics": [
+                      "arxiv",
+                      "asynchronous-inference",
+                      "computer-vision",
+                      "kv-cache",
+                      "multimodal-llm",
+                      "online-video-understanding",
+                      "proactive-ai",
+                      "qwen3-vl",
+                      "real-time",
+                      "streaming-video",
+                      "streaming-video-understanding",
+                      "streaming-vlm",
+                      "training-free",
+                      "video-llm",
+                      "video-question-answering",
+                      "vision-language-model"
+                    ]
+                  },
+                  "first_seen": "2026-10-10T18:51:08.236Z"
                 }
               ],
               "description": null,
@@ -3095,7 +3133,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2401,
+                    "stars": 2402,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3593,8 +3631,8 @@
                 "id": 1357950822,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-07T04:05:29Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-10T09:11:13Z",
+                "open_issues": 1,
                 "owner": "Thordata",
                 "repo": "video-dataset-toolkit",
                 "stars": 0,
@@ -3621,7 +3659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T19:45:53.510Z",
+    "last_updated": "2026-10-10T18:51:08.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3629,14 +3667,14 @@
       "id": 666960664,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-27T07:07:06Z",
-      "open_issues": 8,
+      "last_commit": "2026-10-10T06:07:41Z",
+      "open_issues": 7,
       "owner": "yunlong10",
       "repo": "Awesome-LLMs-for-Video-Understanding",
       "stars": 3293,
       "topics": []
     },
-    "original_repository_sha": "bc8c62236cdd1e41d06772a47f0944025a8f1b32",
+    "original_repository_sha": "490abff40c604ecc85bfc1f0eca76c9eada9a066",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLMs-for-Video-Understanding",
     "enhanced_repository_description": null,
     "title": "Awesome-LLMs-for-Video-Understanding with stars"
