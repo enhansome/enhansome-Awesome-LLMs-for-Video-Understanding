@@ -328,7 +328,7 @@
                         "open_issues": 2,
                         "owner": "TaoLiveAIGC",
                         "repo": "TLive-Omni",
-                        "stars": 353,
+                        "stars": 354,
                         "topics": [
                           "audio-understanding",
                           "large-language-models",
@@ -441,7 +441,7 @@
                         "open_issues": 28,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1542,
+                        "stars": 1543,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -537,7 +537,7 @@
                         "open_issues": 75,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3356,
+                        "stars": 3357,
                         "topics": [
                           "big-model",
                           "captioning-videos",
@@ -1544,7 +1544,7 @@
                         "open_issues": 75,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3356,
+                        "stars": 3357,
                         "topics": [
                           "big-model",
                           "captioning-videos",
@@ -2241,10 +2241,10 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-10-09T17:16:54Z",
-                        "open_issues": 0,
+                        "open_issues": 1,
                         "owner": "ZJU-OmniAI",
                         "repo": "Spatial-Interactor",
-                        "stars": 87,
+                        "stars": 88,
                         "topics": [
                           "embodied-ai",
                           "on-policy-distillation",
@@ -2372,7 +2372,7 @@
                     "open_issues": 75,
                     "owner": "OpenGVLab",
                     "repo": "Ask-Anything",
-                    "stars": 3356,
+                    "stars": 3357,
                     "topics": [
                       "big-model",
                       "captioning-videos",
@@ -2689,7 +2689,7 @@
                 "open_issues": 4,
                 "owner": "Soldelli",
                 "repo": "MAD",
-                "stars": 177,
+                "stars": 178,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:16.929Z"
@@ -2862,7 +2862,7 @@
                 "open_issues": 0,
                 "owner": "xudejing",
                 "repo": "video-question-answering",
-                "stars": 178,
+                "stars": 177,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:16.929Z"
@@ -2883,7 +2883,7 @@
                 "open_issues": 0,
                 "owner": "xudejing",
                 "repo": "video-question-answering",
-                "stars": 178,
+                "stars": 177,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3376,7 +3376,7 @@
                 "open_issues": 75,
                 "owner": "OpenGVLab",
                 "repo": "Ask-Anything",
-                "stars": 3356,
+                "stars": 3357,
                 "topics": [
                   "big-model",
                   "captioning-videos",
@@ -3659,7 +3659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:21:34.182Z",
+    "last_updated": "2026-10-14T18:53:48.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3671,7 +3671,7 @@
       "open_issues": 7,
       "owner": "yunlong10",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3294,
+      "stars": 3296,
       "topics": []
     },
     "original_repository_sha": "490abff40c604ecc85bfc1f0eca76c9eada9a066",
