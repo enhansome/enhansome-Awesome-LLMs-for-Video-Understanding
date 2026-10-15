@@ -437,11 +437,11 @@
                         "id": 677284959,
                         "language": null,
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-10T06:50:51Z",
-                        "open_issues": 28,
+                        "last_commit": "2026-10-15T07:08:48Z",
+                        "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1543,
+                        "stars": 1544,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -516,7 +516,7 @@
                         "open_issues": 88,
                         "owner": "DAMO-NLP-SG",
                         "repo": "VideoLLaMA2",
-                        "stars": 1305,
+                        "stars": 1306,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -537,7 +537,7 @@
                         "open_issues": 75,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3357,
+                        "stars": 3359,
                         "topics": [
                           "big-model",
                           "captioning-videos",
@@ -736,7 +736,7 @@
                         "open_issues": 147,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2402,
+                        "stars": 2404,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -945,7 +945,7 @@
                         "open_issues": 44,
                         "owner": "JIA-Lab-research",
                         "repo": "LLaMA-VID",
-                        "stars": 860,
+                        "stars": 861,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -1488,7 +1488,7 @@
                         "open_issues": 20,
                         "owner": "csuhan",
                         "repo": "OneLLM",
-                        "stars": 668,
+                        "stars": 667,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -1544,7 +1544,7 @@
                         "open_issues": 75,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3357,
+                        "stars": 3359,
                         "topics": [
                           "big-model",
                           "captioning-videos",
@@ -2087,7 +2087,7 @@
                         "open_issues": 44,
                         "owner": "JIA-Lab-research",
                         "repo": "LLaMA-VID",
-                        "stars": 860,
+                        "stars": 861,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -2150,7 +2150,7 @@
                         "open_issues": 88,
                         "owner": "DAMO-NLP-SG",
                         "repo": "VideoLLaMA2",
-                        "stars": 1305,
+                        "stars": 1306,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -2240,7 +2240,7 @@
                         "id": 1368647527,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-09T17:16:54Z",
+                        "last_commit": "2026-10-15T05:39:01Z",
                         "open_issues": 1,
                         "owner": "ZJU-OmniAI",
                         "repo": "Spatial-Interactor",
@@ -2372,7 +2372,7 @@
                     "open_issues": 75,
                     "owner": "OpenGVLab",
                     "repo": "Ask-Anything",
-                    "stars": 3357,
+                    "stars": 3359,
                     "topics": [
                       "big-model",
                       "captioning-videos",
@@ -3133,7 +3133,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2402,
+                    "stars": 2404,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3301,7 +3301,7 @@
                 "open_issues": 0,
                 "owner": "google-deepmind",
                 "repo": "perception_test",
-                "stars": 259,
+                "stars": 262,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3376,7 +3376,7 @@
                 "open_issues": 75,
                 "owner": "OpenGVLab",
                 "repo": "Ask-Anything",
-                "stars": 3357,
+                "stars": 3359,
                 "topics": [
                   "big-model",
                   "captioning-videos",
@@ -3436,7 +3436,7 @@
                 "open_issues": 11,
                 "owner": "MME-Benchmarks",
                 "repo": "Video-MME",
-                "stars": 799,
+                "stars": 800,
                 "topics": [
                   "large-language-models",
                   "large-vision-language-models",
@@ -3659,7 +3659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T18:53:48.613Z",
+    "last_updated": "2026-10-15T18:39:09.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3668,10 +3668,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-10T06:07:41Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "yunlong10",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3296,
+      "stars": 3297,
       "topics": []
     },
     "original_repository_sha": "490abff40c604ecc85bfc1f0eca76c9eada9a066",
