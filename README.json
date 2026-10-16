@@ -437,11 +437,11 @@
                         "id": 677284959,
                         "language": null,
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-15T07:08:48Z",
+                        "last_commit": "2026-10-16T09:43:39Z",
                         "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1544,
+                        "stars": 1546,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -537,7 +537,7 @@
                         "open_issues": 75,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3359,
+                        "stars": 3361,
                         "topics": [
                           "big-model",
                           "captioning-videos",
@@ -692,7 +692,7 @@
                         "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "tarsier",
-                        "stars": 553,
+                        "stars": 552,
                         "topics": [
                           "research"
                         ]
@@ -736,7 +736,7 @@
                         "open_issues": 147,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2404,
+                        "stars": 2407,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -966,7 +966,7 @@
                         "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3503,
+                        "stars": 3504,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -1167,7 +1167,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3444,
+                        "stars": 3445,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -1544,7 +1544,7 @@
                         "open_issues": 75,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3359,
+                        "stars": 3361,
                         "topics": [
                           "big-model",
                           "captioning-videos",
@@ -2036,7 +2036,7 @@
                         "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3503,
+                        "stars": 3504,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -2108,7 +2108,7 @@
                         "open_issues": 10,
                         "owner": "TengdaHan",
                         "repo": "AutoAD",
-                        "stars": 105,
+                        "stars": 106,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -2244,7 +2244,7 @@
                         "open_issues": 1,
                         "owner": "ZJU-OmniAI",
                         "repo": "Spatial-Interactor",
-                        "stars": 88,
+                        "stars": 89,
                         "topics": [
                           "embodied-ai",
                           "on-policy-distillation",
@@ -2278,7 +2278,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3444,
+                        "stars": 3445,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -2372,7 +2372,7 @@
                     "open_issues": 75,
                     "owner": "OpenGVLab",
                     "repo": "Ask-Anything",
-                    "stars": 3359,
+                    "stars": 3361,
                     "topics": [
                       "big-model",
                       "captioning-videos",
@@ -3074,7 +3074,7 @@
                     "open_issues": 8,
                     "owner": "CASIA-IVA-Lab",
                     "repo": "VALOR",
-                    "stars": 310,
+                    "stars": 311,
                     "topics": [
                       "audio-language-pretraining",
                       "audiovisual-language-pretraining",
@@ -3133,7 +3133,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2404,
+                    "stars": 2407,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3210,7 +3210,7 @@
                     "open_issues": 65,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "Otter",
-                    "stars": 3444,
+                    "stars": 3445,
                     "topics": [
                       "artificial-inteligence",
                       "chatgpt",
@@ -3376,7 +3376,7 @@
                 "open_issues": 75,
                 "owner": "OpenGVLab",
                 "repo": "Ask-Anything",
-                "stars": 3359,
+                "stars": 3361,
                 "topics": [
                   "big-model",
                   "captioning-videos",
@@ -3436,7 +3436,7 @@
                 "open_issues": 11,
                 "owner": "MME-Benchmarks",
                 "repo": "Video-MME",
-                "stars": 800,
+                "stars": 801,
                 "topics": [
                   "large-language-models",
                   "large-vision-language-models",
@@ -3659,7 +3659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T18:39:09.767Z",
+    "last_updated": "2026-10-16T18:21:16.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
