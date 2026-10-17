@@ -441,7 +441,7 @@
                         "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1546,
+                        "stars": 1547,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -1225,6 +1225,48 @@
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding",
+                      "description": "VideoChat3 07/2026 code arXiv",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "VideoChat3: a generalist video MLLM built for fine-grained motion, long-form reasoning, temporal grounding, and online proactive response.",
+                        "homepage": null,
+                        "id": 1290513696,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2026-10-02T07:35:21Z",
+                        "open_issues": 3,
+                        "owner": "MCG-NJU",
+                        "repo": "VideoChat3",
+                        "stars": 350,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-17T17:32:29.374Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
+                      "description": "OneStreamer 10/2026 code arXiv",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
+                        "homepage": null,
+                        "id": 1397885809,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-10-14T16:22:17Z",
+                        "open_issues": 3,
+                        "owner": "MCG-NJU",
+                        "repo": "OneStreamer",
+                        "stars": 227,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-17T17:32:29.374Z"
                     }
                   ],
                   "description": null,
@@ -1395,6 +1437,27 @@
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs",
+                      "description": "TimeLens2 07/2026 code arXiv",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs",
+                        "homepage": null,
+                        "id": 1302170043,
+                        "language": "Python",
+                        "license": "NOASSERTION",
+                        "last_commit": "2026-10-02T07:27:17Z",
+                        "open_issues": 0,
+                        "owner": "MCG-NJU",
+                        "repo": "TimeLens2",
+                        "stars": 145,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-17T17:32:29.374Z"
                     }
                   ],
                   "description": null,
@@ -1492,6 +1555,27 @@
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "VideoJev: System One Model for Video Understanding and Interaction",
+                      "description": "VideoJev 10/2026 code arXiv",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "VideoJev: System One Model for Video Understanding and Interaction",
+                        "homepage": null,
+                        "id": 1409542866,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-10-17T16:39:46Z",
+                        "open_issues": 2,
+                        "owner": "MCG-NJU",
+                        "repo": "VideoJev",
+                        "stars": 161,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-17T17:32:29.374Z"
                     }
                   ],
                   "description": null,
@@ -1729,6 +1813,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:41:16.929Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning",
+                  "description": "Video-o3 01/2026 code ICML 2026",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ICML 2026] Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning",
+                    "homepage": null,
+                    "id": 1147599141,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-07-02T14:05:09Z",
+                    "open_issues": 7,
+                    "owner": "MCG-NJU",
+                    "repo": "Video-o3",
+                    "stars": 128,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-17T17:32:29.374Z"
                 }
               ],
               "description": null,
@@ -3255,7 +3360,7 @@
                 "open_issues": 12,
                 "owner": "zai-org",
                 "repo": "LVBench",
-                "stars": 155,
+                "stars": 156,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3553,7 +3658,7 @@
                 "open_issues": 0,
                 "owner": "NJU-LINK",
                 "repo": "OmniVideoBench",
-                "stars": 78,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3659,7 +3764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:21:16.531Z",
+    "last_updated": "2026-10-17T17:32:29.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3667,14 +3772,14 @@
       "id": 666960664,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-10T06:07:41Z",
-      "open_issues": 8,
+      "last_commit": "2026-10-17T08:14:13Z",
+      "open_issues": 7,
       "owner": "yunlong10",
       "repo": "Awesome-LLMs-for-Video-Understanding",
       "stars": 3297,
       "topics": []
     },
-    "original_repository_sha": "490abff40c604ecc85bfc1f0eca76c9eada9a066",
+    "original_repository_sha": "25d5d6cda1b0cb3af22f237e6e5356eedc2ad7af",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLMs-for-Video-Understanding",
     "enhanced_repository_description": null,
     "title": "Awesome-LLMs-for-Video-Understanding with stars"
