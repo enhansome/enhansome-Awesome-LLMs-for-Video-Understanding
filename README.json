@@ -441,7 +441,7 @@
                         "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1547,
+                        "stars": 1548,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -537,7 +537,7 @@
                         "open_issues": 75,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3361,
+                        "stars": 3360,
                         "topics": [
                           "big-model",
                           "captioning-videos",
@@ -736,7 +736,7 @@
                         "open_issues": 147,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2407,
+                        "stars": 2408,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -898,7 +898,7 @@
                         "open_issues": 78,
                         "owner": "NVlabs",
                         "repo": "VILA",
-                        "stars": 3865,
+                        "stars": 3864,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -1043,7 +1043,7 @@
                         "open_issues": 22,
                         "owner": "lyuchenyang",
                         "repo": "Macaw-LLM",
-                        "stars": 1592,
+                        "stars": 1591,
                         "topics": [
                           "deep-learning",
                           "language-model",
@@ -1167,7 +1167,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3445,
+                        "stars": 3444,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -1568,11 +1568,11 @@
                         "id": 1409542866,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-17T16:39:46Z",
+                        "last_commit": "2026-10-18T08:17:17Z",
                         "open_issues": 2,
                         "owner": "MCG-NJU",
                         "repo": "VideoJev",
-                        "stars": 161,
+                        "stars": 166,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1628,7 +1628,7 @@
                         "open_issues": 75,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3361,
+                        "stars": 3360,
                         "topics": [
                           "big-model",
                           "captioning-videos",
@@ -1809,7 +1809,7 @@
                     "open_issues": 8,
                     "owner": "egolife-ai",
                     "repo": "Ego-R1",
-                    "stars": 169,
+                    "stars": 170,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:41:16.929Z"
@@ -2000,7 +2000,7 @@
                         "open_issues": 22,
                         "owner": "lyuchenyang",
                         "repo": "Macaw-LLM",
-                        "stars": 1592,
+                        "stars": 1591,
                         "topics": [
                           "deep-learning",
                           "language-model",
@@ -2383,7 +2383,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3445,
+                        "stars": 3444,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -2477,7 +2477,7 @@
                     "open_issues": 75,
                     "owner": "OpenGVLab",
                     "repo": "Ask-Anything",
-                    "stars": 3361,
+                    "stars": 3360,
                     "topics": [
                       "big-model",
                       "captioning-videos",
@@ -3238,7 +3238,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2407,
+                    "stars": 2408,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3315,7 +3315,7 @@
                     "open_issues": 65,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "Otter",
-                    "stars": 3445,
+                    "stars": 3444,
                     "topics": [
                       "artificial-inteligence",
                       "chatgpt",
@@ -3381,7 +3381,7 @@
                 "open_issues": 8,
                 "owner": "PKU-YuanGroup",
                 "repo": "Video-Bench",
-                "stars": 140,
+                "stars": 141,
                 "topics": [
                   "benchmark",
                   "large-language-models",
@@ -3481,7 +3481,7 @@
                 "open_issues": 75,
                 "owner": "OpenGVLab",
                 "repo": "Ask-Anything",
-                "stars": 3361,
+                "stars": 3360,
                 "topics": [
                   "big-model",
                   "captioning-videos",
@@ -3764,7 +3764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:32:29.374Z",
+    "last_updated": "2026-10-18T17:32:56.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
