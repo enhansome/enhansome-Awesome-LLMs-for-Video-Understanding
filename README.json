@@ -441,7 +441,7 @@
                         "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1553,
+                        "stars": 1554,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -692,7 +692,7 @@
                         "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "tarsier",
-                        "stars": 553,
+                        "stars": 554,
                         "topics": [
                           "research"
                         ]
@@ -736,7 +736,7 @@
                         "open_issues": 147,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2410,
+                        "stars": 2411,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -1572,7 +1572,7 @@
                         "open_issues": 2,
                         "owner": "MCG-NJU",
                         "repo": "VideoJev",
-                        "stars": 213,
+                        "stars": 226,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -2668,7 +2668,7 @@
                     "open_issues": 0,
                     "owner": "thenaivekid",
                     "repo": "foresight",
-                    "stars": 0,
+                    "stars": 1,
                     "topics": [
                       "arxiv",
                       "asynchronous-inference",
@@ -3238,7 +3238,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2410,
+                    "stars": 2411,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3360,7 +3360,7 @@
                 "open_issues": 12,
                 "owner": "zai-org",
                 "repo": "LVBench",
-                "stars": 156,
+                "stars": 157,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3764,7 +3764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T18:44:10.751Z",
+    "last_updated": "2026-10-21T18:55:13.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3776,7 +3776,7 @@
       "open_issues": 7,
       "owner": "yunlong10",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3299,
+      "stars": 3298,
       "topics": []
     },
     "original_repository_sha": "25d5d6cda1b0cb3af22f237e6e5356eedc2ad7af",
