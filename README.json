@@ -328,7 +328,7 @@
                         "open_issues": 2,
                         "owner": "TaoLiveAIGC",
                         "repo": "TLive-Omni",
-                        "stars": 354,
+                        "stars": 339,
                         "topics": [
                           "audio-understanding",
                           "large-language-models",
@@ -537,7 +537,7 @@
                         "open_issues": 75,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3362,
+                        "stars": 3361,
                         "topics": [
                           "big-model",
                           "captioning-videos",
@@ -597,7 +597,7 @@
                         "open_issues": 42,
                         "owner": "wenhaochai",
                         "repo": "MovieChat",
-                        "stars": 706,
+                        "stars": 707,
                         "topics": [
                           "computer-vision",
                           "dataset",
@@ -736,7 +736,7 @@
                         "open_issues": 147,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2411,
+                        "stars": 2412,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -945,7 +945,7 @@
                         "open_issues": 44,
                         "owner": "JIA-Lab-research",
                         "repo": "LLaMA-VID",
-                        "stars": 862,
+                        "stars": 863,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -1104,7 +1104,7 @@
                         "open_issues": 69,
                         "owner": "DAMO-NLP-SG",
                         "repo": "Video-LLaMA",
-                        "stars": 3140,
+                        "stars": 3139,
                         "topics": [
                           "blip2",
                           "cross-modal-pretraining",
@@ -1451,7 +1451,7 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-02T07:27:17Z",
-                        "open_issues": 0,
+                        "open_issues": 1,
                         "owner": "MCG-NJU",
                         "repo": "TimeLens2",
                         "stars": 145,
@@ -1482,7 +1482,7 @@
                         "open_issues": 8,
                         "owner": "gyxxyg",
                         "repo": "VTG-LLM",
-                        "stars": 131,
+                        "stars": 132,
                         "topics": [
                           "dense-video-captioning",
                           "moment-retrieval",
@@ -1572,7 +1572,7 @@
                         "open_issues": 2,
                         "owner": "MCG-NJU",
                         "repo": "VideoJev",
-                        "stars": 226,
+                        "stars": 233,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1628,7 +1628,7 @@
                         "open_issues": 75,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3362,
+                        "stars": 3361,
                         "topics": [
                           "big-model",
                           "captioning-videos",
@@ -1916,7 +1916,7 @@
                         "open_issues": 69,
                         "owner": "DAMO-NLP-SG",
                         "repo": "Video-LLaMA",
-                        "stars": 3140,
+                        "stars": 3139,
                         "topics": [
                           "blip2",
                           "cross-modal-pretraining",
@@ -2086,7 +2086,7 @@
                         "open_issues": 42,
                         "owner": "wenhaochai",
                         "repo": "MovieChat",
-                        "stars": 706,
+                        "stars": 707,
                         "topics": [
                           "computer-vision",
                           "dataset",
@@ -2192,7 +2192,7 @@
                         "open_issues": 44,
                         "owner": "JIA-Lab-research",
                         "repo": "LLaMA-VID",
-                        "stars": 862,
+                        "stars": 863,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -2213,7 +2213,7 @@
                         "open_issues": 10,
                         "owner": "TengdaHan",
                         "repo": "AutoAD",
-                        "stars": 106,
+                        "stars": 105,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -2318,7 +2318,7 @@
                         "open_issues": 1,
                         "owner": "reacher-z",
                         "repo": "vidground",
-                        "stars": 65,
+                        "stars": 58,
                         "topics": [
                           "arxiv",
                           "deep-learning",
@@ -2349,7 +2349,7 @@
                         "open_issues": 1,
                         "owner": "ZJU-OmniAI",
                         "repo": "Spatial-Interactor",
-                        "stars": 90,
+                        "stars": 85,
                         "topics": [
                           "embodied-ai",
                           "on-policy-distillation",
@@ -2477,7 +2477,7 @@
                     "open_issues": 75,
                     "owner": "OpenGVLab",
                     "repo": "Ask-Anything",
-                    "stars": 3362,
+                    "stars": 3361,
                     "topics": [
                       "big-model",
                       "captioning-videos",
@@ -3238,7 +3238,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2411,
+                    "stars": 2412,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3481,7 +3481,7 @@
                 "open_issues": 75,
                 "owner": "OpenGVLab",
                 "repo": "Ask-Anything",
-                "stars": 3362,
+                "stars": 3361,
                 "topics": [
                   "big-model",
                   "captioning-videos",
@@ -3658,7 +3658,7 @@
                 "open_issues": 0,
                 "owner": "NJU-LINK",
                 "repo": "OmniVideoBench",
-                "stars": 79,
+                "stars": 80,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3764,7 +3764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:55:13.164Z",
+    "last_updated": "2026-10-22T18:49:04.019Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3776,7 +3776,7 @@
       "open_issues": 7,
       "owner": "yunlong10",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3298,
+      "stars": 3299,
       "topics": []
     },
     "original_repository_sha": "25d5d6cda1b0cb3af22f237e6e5356eedc2ad7af",
