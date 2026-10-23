@@ -898,7 +898,7 @@
                         "open_issues": 78,
                         "owner": "NVlabs",
                         "repo": "VILA",
-                        "stars": 3867,
+                        "stars": 3868,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -1260,7 +1260,7 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-10-14T16:22:17Z",
-                        "open_issues": 4,
+                        "open_issues": 5,
                         "owner": "MCG-NJU",
                         "repo": "OneStreamer",
                         "stars": 228,
@@ -1454,7 +1454,7 @@
                         "open_issues": 1,
                         "owner": "MCG-NJU",
                         "repo": "TimeLens2",
-                        "stars": 145,
+                        "stars": 147,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1572,7 +1572,7 @@
                         "open_issues": 2,
                         "owner": "MCG-NJU",
                         "repo": "VideoJev",
-                        "stars": 233,
+                        "stars": 238,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -2272,7 +2272,7 @@
                         "id": 955041251,
                         "language": "Python",
                         "license": null,
-                        "last_commit": "2025-09-06T18:24:33Z",
+                        "last_commit": "2026-10-22T23:57:59Z",
                         "open_issues": 0,
                         "owner": "dragonlzm",
                         "repo": "PAVE",
@@ -3764,7 +3764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:49:04.019Z",
+    "last_updated": "2026-10-23T18:43:14.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3776,7 +3776,7 @@
       "open_issues": 7,
       "owner": "yunlong10",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3299,
+      "stars": 3300,
       "topics": []
     },
     "original_repository_sha": "25d5d6cda1b0cb3af22f237e6e5356eedc2ad7af",
