@@ -113,7 +113,7 @@
                         "open_issues": 22,
                         "owner": "CASIA-IVA-Lab",
                         "repo": "VAST",
-                        "stars": 303,
+                        "stars": 304,
                         "topics": [
                           "audio-language",
                           "cross-modality-pretraining",
@@ -441,7 +441,7 @@
                         "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1554,
+                        "stars": 1555,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -597,7 +597,7 @@
                         "open_issues": 42,
                         "owner": "wenhaochai",
                         "repo": "MovieChat",
-                        "stars": 707,
+                        "stars": 708,
                         "topics": [
                           "computer-vision",
                           "dataset",
@@ -1263,7 +1263,7 @@
                         "open_issues": 5,
                         "owner": "MCG-NJU",
                         "repo": "OneStreamer",
-                        "stars": 228,
+                        "stars": 229,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1572,7 +1572,7 @@
                         "open_issues": 2,
                         "owner": "MCG-NJU",
                         "repo": "VideoJev",
-                        "stars": 245,
+                        "stars": 249,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1879,7 +1879,7 @@
                     "open_issues": 22,
                     "owner": "CASIA-IVA-Lab",
                     "repo": "VAST",
-                    "stars": 303,
+                    "stars": 304,
                     "topics": [
                       "audio-language",
                       "cross-modality-pretraining",
@@ -2086,7 +2086,7 @@
                         "open_issues": 42,
                         "owner": "wenhaochai",
                         "repo": "MovieChat",
-                        "stars": 707,
+                        "stars": 708,
                         "topics": [
                           "computer-vision",
                           "dataset",
@@ -3280,7 +3280,7 @@
                     "open_issues": 22,
                     "owner": "CASIA-IVA-Lab",
                     "repo": "VAST",
-                    "stars": 303,
+                    "stars": 304,
                     "topics": [
                       "audio-language",
                       "cross-modality-pretraining",
@@ -3541,7 +3541,7 @@
                 "open_issues": 11,
                 "owner": "MME-Benchmarks",
                 "repo": "Video-MME",
-                "stars": 801,
+                "stars": 802,
                 "topics": [
                   "large-language-models",
                   "large-vision-language-models",
@@ -3764,7 +3764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:35:42.949Z",
+    "last_updated": "2026-10-25T17:51:27.855Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
