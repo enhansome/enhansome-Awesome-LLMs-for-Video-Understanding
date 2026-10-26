@@ -218,7 +218,7 @@
                         "open_issues": 2,
                         "owner": "z-x-yang",
                         "repo": "DoraemonGPT",
-                        "stars": 90,
+                        "stars": 89,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -534,10 +534,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-07-17T10:31:09Z",
-                        "open_issues": 75,
+                        "open_issues": 74,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3362,
+                        "stars": 3363,
                         "topics": [
                           "big-model",
                           "captioning-videos",
@@ -692,7 +692,7 @@
                         "open_issues": 32,
                         "owner": "bytedance",
                         "repo": "tarsier",
-                        "stars": 554,
+                        "stars": 553,
                         "topics": [
                           "research"
                         ]
@@ -898,7 +898,7 @@
                         "open_issues": 78,
                         "owner": "NVlabs",
                         "repo": "VILA",
-                        "stars": 3867,
+                        "stars": 3866,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -1263,7 +1263,7 @@
                         "open_issues": 5,
                         "owner": "MCG-NJU",
                         "repo": "OneStreamer",
-                        "stars": 229,
+                        "stars": 232,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1454,7 +1454,7 @@
                         "open_issues": 1,
                         "owner": "MCG-NJU",
                         "repo": "TimeLens2",
-                        "stars": 147,
+                        "stars": 148,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1572,7 +1572,7 @@
                         "open_issues": 2,
                         "owner": "MCG-NJU",
                         "repo": "VideoJev",
-                        "stars": 249,
+                        "stars": 254,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1625,10 +1625,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-07-17T10:31:09Z",
-                        "open_issues": 75,
+                        "open_issues": 74,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3362,
+                        "stars": 3363,
                         "topics": [
                           "big-model",
                           "captioning-videos",
@@ -2474,10 +2474,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-07-17T10:31:09Z",
-                    "open_issues": 75,
+                    "open_issues": 74,
                     "owner": "OpenGVLab",
                     "repo": "Ask-Anything",
-                    "stars": 3362,
+                    "stars": 3363,
                     "topics": [
                       "big-model",
                       "captioning-videos",
@@ -3149,7 +3149,7 @@
                 "open_issues": 0,
                 "owner": "chuntianli666",
                 "repo": "CrossVid",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3478,10 +3478,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-07-17T10:31:09Z",
-                "open_issues": 75,
+                "open_issues": 74,
                 "owner": "OpenGVLab",
                 "repo": "Ask-Anything",
-                "stars": 3362,
+                "stars": 3363,
                 "topics": [
                   "big-model",
                   "captioning-videos",
@@ -3616,7 +3616,7 @@
                 "open_issues": 0,
                 "owner": "chuntianli666",
                 "repo": "CrossVid",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3764,7 +3764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:51:27.855Z",
+    "last_updated": "2026-10-26T20:09:00.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3776,7 +3776,7 @@
       "open_issues": 7,
       "owner": "yunlong10",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3300,
+      "stars": 3301,
       "topics": []
     },
     "original_repository_sha": "25d5d6cda1b0cb3af22f237e6e5356eedc2ad7af",
