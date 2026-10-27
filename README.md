@@ -2,13 +2,13 @@
 
 ### 🔥🔥🔥 [Video Understanding with Large Language Models: A Survey](https://arxiv.org/abs/2312.17432)
 
-> *[Yolo Y. Tang](https://yunlong10.github.io/)<sup>1</sup>, [Jing Bi](https://jing-bi.github.io/)<sup>1</sup>, [Siting Xu](https://sai-01.github.io/)<sup>2</sup>, [Luchuan Song](https://songluchuan.github.io/)<sup>1</sup>, [Susan Liang](https://liangsusan-git.github.io/)<sup>1</sup> , [Teng Wang](http://ttengwang.com/)<sup>2,3</sup> , [Daoan Zhang](https://dwan.ch/)<sup>1</sup> , [Jie An](https://pkuanjie.com/)<sup>1</sup> , [Jingyang Lin](https://jylin.me/)<sup>1</sup> , [Rongyi Zhu](https://www.linkedin.com/in/rongyi-zhu-41b15124a/)<sup>1</sup> , [Ali Vosoughi](https://alivosoughi.com/)<sup>1</sup> , [Chao Huang](https://wikichao.github.io/)<sup>1</sup> , [Zeliang Zhang](https://zhangaipi.github.io/)<sup>1</sup> , [Pinxin Liu](https://andypinxinliu.github.io/)<sup>1</sup> , [Mingqian Feng](https://fmmarkmq.github.io/)<sup>1</sup> , [Feng Zheng](https://scholar.google.com/citations?user=PcmyXHMAAAAJ)<sup>2</sup> , [Jianguo Zhang](https://scholar.google.com/citations?user=ypSmZtIAAAAJ)<sup>2</sup> , [Ping Luo](http://luoping.me/)<sup>3</sup> , [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/)<sup>1</sup>, [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/index.html)<sup>1</sup>.*
+> *[Yolo Y. Tang](https://yoloytang.me/)<sup>1</sup>, [Jing Bi](https://jing-bi.github.io/)<sup>1</sup>, [Siting Xu](https://sai-01.github.io/)<sup>2</sup>, [Luchuan Song](https://songluchuan.github.io/)<sup>1</sup>, [Susan Liang](https://liangsusan-git.github.io/)<sup>1</sup> , [Teng Wang](http://ttengwang.com/)<sup>2,3</sup> , [Daoan Zhang](https://dwan.ch/)<sup>1</sup> , [Jie An](https://pkuanjie.com/)<sup>1</sup> , [Jingyang Lin](https://jylin.me/)<sup>1</sup> , [Rongyi Zhu](https://www.linkedin.com/in/rongyi-zhu-41b15124a/)<sup>1</sup> , [Ali Vosoughi](https://alivosoughi.com/)<sup>1</sup> , [Chao Huang](https://wikichao.github.io/)<sup>1</sup> , [Zeliang Zhang](https://zhangaipi.github.io/)<sup>1</sup> , [Pinxin Liu](https://andypinxinliu.github.io/)<sup>1</sup> , [Mingqian Feng](https://fmmarkmq.github.io/)<sup>1</sup> , [Feng Zheng](https://scholar.google.com/citations?user=PcmyXHMAAAAJ)<sup>2</sup> , [Jianguo Zhang](https://scholar.google.com/citations?user=ypSmZtIAAAAJ)<sup>2</sup> , [Ping Luo](http://luoping.me/)<sup>3</sup> , [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/)<sup>1</sup>, [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/index.html)<sup>1</sup>.*
 
 > *<sup>1</sup>University of Rochester, <sup>2</sup>Southern University of Science and Technology, <sup>3</sup>The University of Hong Kong*
 
 <h5 align="center">  
 
-**[Paper](https://ieeexplore.ieee.org/document/10982110)** | **[arXiv](https://arxiv.org/abs/2312.17432)** | **[Project Page](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)**
+**[Paper](https://ieeexplore.ieee.org/document/10982110)** | **[arXiv](https://arxiv.org/abs/2312.17432)** | **[Project Page](https://github.com/yoloytang/Awesome-LLMs-for-Video-Understanding) ⭐ 3,301 | 🐛 7 | 📅 2026-10-27**
 
 </h5>
 
@@ -18,12 +18,12 @@
 
 \[10/06/2025]
 
-🔥 Our follow-up work—[Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models](https://github.com/yunlong10/Awesome-Video-LMM-Post-Training) ⭐ 305 | 🐛 2 | 🌐 Python | 📅 2026-03-03—is now available on [arXiv](https://arxiv.org/abs/2510.05034) and [Hugging Face Papers](https://huggingface.co/papers/2510.05034)!
+🔥 Our follow-up work—[Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models](https://github.com/yoloytang/Awesome-Video-LMM-Post-Training) ⭐ 305 | 🐛 2 | 🌐 Python | 📅 2026-10-27—is now available on [arXiv](https://arxiv.org/abs/2510.05034) and [Hugging Face Papers](https://huggingface.co/papers/2510.05034)!
 
 \[05/04/2025]
 
 🌟 Our Vid-LLM survey has been accepted to the IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)!
-👉 [IEEE Xplore](https://ieeexplore.ieee.org/document/10982110) | [GitHub](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)
+👉 [IEEE Xplore](https://ieeexplore.ieee.org/document/10982110) | [GitHub](https://github.com/yoloytang/Awesome-LLMs-for-Video-Understanding) ⭐ 3,301 | 🐛 7 | 📅 2026-10-27
 
 \[07/23/2024]
 
@@ -92,7 +92,7 @@ If you find our survey useful for your research, please cite the following paper
 
 ```bibtex
 @article{vidllmsurvey,
-  author={Tang, Yunlong and Bi, Jing and Xu, Siting and Song, Luchuan and Liang, Susan and Wang, Teng and Zhang, Daoan and An, Jie and Lin, Jingyang and Zhu, Rongyi and Vosoughi, Ali and Huang, Chao and Zhang, Zeliang and Liu, Pinxin and Feng, Mingqian and Zheng, Feng and Zhang, Jianguo and Luo, Ping and Luo, Jiebo and Xu, Chenliang},
+  author={Tang, Yolo Y. and Bi, Jing and Xu, Siting and Song, Luchuan and Liang, Susan and Wang, Teng and Zhang, Daoan and An, Jie and Lin, Jingyang and Zhu, Rongyi and Vosoughi, Ali and Huang, Chao and Zhang, Zeliang and Liu, Pinxin and Feng, Mingqian and Zheng, Feng and Zhang, Jianguo and Luo, Ping and Luo, Jiebo and Xu, Chenliang},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={Video Understanding with Large Language Models: A Survey}, 
   year={2025},
@@ -166,7 +166,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**Long context transfer from language to vision**](https://arxiv.org/abs/2406.16852)                                                                          |      LongVA     | 06/2024 |             [code](https://github.com/EvolvingLMMs-Lab/LongVA) ⭐ 413 \| 🐛 29 \| 🌐 Python \| 📅 2025-03-18             |   arXiv   |
 | [**ShareGPT4Video improving video understanding and generation with better captions**](https://arxiv.org/abs/2406.04325)                                       |  ShareGPT4Video | 06/2024 |                                        [code](https://sharegpt4video.github.io/)                                        |   arXiv   |
 | [**Towards event-oriented long video understanding**](https://arxiv.org/abs/2406.14129)                                                                        |       VIM       | 06/2024 |                [code](https://github.com/RUCAIBox/Event-Bench) ⭐ 12 \| 🐛 0 \| 🌐 Python \| 📅 2024-07-26               |   arXiv   |
-| [**Video-SALMONN speech-enhanced audio-visual large language models**](https://arxiv.org/abs/2406.15704)                                                       |  Video-SALMONN  | 06/2024 |                     [code](https://github.com/bytedance/SALMONN/) ⭐ 1,555 \| 🐛 31 \| 📅 2026-10-16                     |    ICML   |
+| [**Video-SALMONN speech-enhanced audio-visual large language models**](https://arxiv.org/abs/2406.15704)                                                       |  Video-SALMONN  | 06/2024 |                     [code](https://github.com/bytedance/SALMONN/) ⭐ 1,556 \| 🐛 31 \| 📅 2026-10-16                     |    ICML   |
 | [**VideoGPT+ integrating image and video encoders for enhanced video understanding**](https://arxiv.org/abs/2406.09418)                                        |    VideoGPT+    | 06/2024 |            [code](https://github.com/mbzuai-oryx/VideoGPT-plus) ⭐ 295 \| 🐛 16 \| 🌐 Python \| 📅 2026-09-05            |   arXiv   |
 | [**VideoLLaMA 2 advancing spatial-temporal modeling and audio understanding in video-LLMs**](https://arxiv.org/abs/2406.07476)                                 |   VideoLLaMA 2  | 06/2024 |            [code](https://github.com/DAMO-NLP-SG/VideoLLaMA2) ⭐ 1,308 \| 🐛 88 \| 🌐 Python \| 📅 2025-01-23            |   arXiv   |
 | [**MotionLLM: Understanding Human Behaviors from Human Motions and Videos**](https://arxiv.org/abs/2405.20340)                                                 |    MotionLLM    | 05/2024 |                                       [project page](https://lhchen.top/MotionLLM)                                      |   arXiv   |
@@ -189,7 +189,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**Tarsier recipes for training and evaluating large video description models**](https://arxiv.org/abs/2407.00634)                                             |     Tarsier     | 07/2024 |                [code](https://github.com/bytedance/tarsier) ⭐ 553 \| 🐛 32 \| 🌐 Python \| 📅 2025-08-14                |   arXiv   |
 | [**X-VARS introducing explainability in football refereeing with multi-modal large language model**](https://arxiv.org/abs/2404.06332)                         |      X-VARS     | 04/2024 |                                                         [code]()                                                        |   arXiv   |
 | [**CAT: Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios**](https://arxiv.org/abs/2403.04640)                   |       CAT       | 03/2024 |                 [code](https://github.com/rikeilong/Bay-CAT) ⭐ 59 \| 🐛 6 \| 🌐 Python \| 📅 2024-09-04                 |   arXiv   |
-| [**InternVideo2 scaling video foundation models for multimodal video understanding**](https://arxiv.org/abs/2403.15377)                                        |   InternVideo2  | 03/2024 | [code](https://github.com/OpenGVLab/InternVideo/tree/main/InternVideo2) ⭐ 2,412 \| 🐛 147 \| 🌐 Python \| 📅 2026-07-02 |    ECCV   |
+| [**InternVideo2 scaling video foundation models for multimodal video understanding**](https://arxiv.org/abs/2403.15377)                                        |   InternVideo2  | 03/2024 | [code](https://github.com/OpenGVLab/InternVideo/tree/main/InternVideo2) ⭐ 2,414 \| 🐛 147 \| 🌐 Python \| 📅 2026-07-02 |    ECCV   |
 | [**MovieLLM enhancing long video understanding with AI-generated movies**](https://arxiv.org/abs/2403.01422)                                                   |     MovieLLM    | 03/2024 |                                       [code](https://deaddawn.github.io/MovieLLM/)                                      |   arXiv   |
 | [**LLMs meet long video advancing long video comprehension with an interactive visual adapter in LLMs**](https://arxiv.org/abs/2402.13546)                     |    IVAwithLLM   | 02/2024 |                                                         [code]()                                                        |   arXiv   |
 | [**LSTP language-guided spatial-temporal prompt learning for long-form video-text understanding**](https://arxiv.org/abs/2402.16050)                           |       LSTP      | 02/2024 |                [code](https://github.com/bigai-nlco/VideoTGB) ⭐ 34 \| 🐛 3 \| 🌐 Python \| 📅 2025-03-02                |   EMNLP   |
@@ -202,7 +202,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**Generative Multimodal Models are In-Context Learners**](https://arxiv.org/abs/2312.13286)                                                                   |       Emu2      | 12/2023 |                                    [project page](https://baaivision.github.io/emu2)                                    |    CVPR   |
 | [**MMICT: Boosting Multi-Modal Fine-Tuning with In-Context Examples**](https://arxiv.org/abs/2312.06363)                                                       |      MMICT      | 12/2023 |                   [code](https://github.com/KDEGroup/MMICT) ⭐ 1 \| 🐛 0 \| 🌐 Python \| 📅 2024-08-12                   |    TOMM   |
 | [**VaQuitA : Enhancing Alignment in LLM-Assisted Video Understanding**](https://arxiv.org/abs/2312.02310)                                                      |     VaQuitA     | 12/2023 |                                                         [code]()                                                        |   arXiv   |
-| [**VILA: On Pre-training for Visual Language Models**](https://arxiv.org/abs/2312.07533)                                                                       |       VILA      | 12/2023 |                  [code](https://github.com/NVlabs/VILA) ⭐ 3,866 \| 🐛 78 \| 🌐 Python \| 📅 2026-03-12                  |    CVPR   |
+| [**VILA: On Pre-training for Visual Language Models**](https://arxiv.org/abs/2312.07533)                                                                       |       VILA      | 12/2023 |                  [code](https://github.com/NVlabs/VILA) ⭐ 3,867 \| 🐛 78 \| 🌐 Python \| 📅 2026-03-12                  |    CVPR   |
 | [**Vista-LLaMA reliable video narrator via equal distance to visual tokens**](https://arxiv.org/abs/2312.08870)                                                |   Vista-LLaMA   | 12/2023 |                                  [project page](https://jinxxian.github.io/Vista-LLaMA)                                 |   arXiv   |
 | [**Chat-UniVi unified visual representation empowers large language models with image and video understanding**](https://arxiv.org/abs/2311.08046)             |    Chat-UniVi   | 11/2023 |             [code](https://github.com/PKU-YuanGroup/Chat-UniVi) ⭐ 945 \| 🐛 20 \| 🌐 Python \| 📅 2024-10-16            |    CVPR   |
 | [**LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models**](https://arxiv.org/abs/2311.17043)                                                         |    LLaMA-VID    | 11/2023 |             [code](https://github.com/dvlab-research/LLaMA-VID) ⭐ 863 \| 🐛 44 \| 🌐 Python \| 📅 2024-07-29            |   arXiv   |
@@ -219,8 +219,8 @@ If you find our survey useful for your research, please cite the following paper
 | [**Otter: A Multi-Modal Model with In-Context Instruction Tuning**](https://arxiv.org/abs/2305.03726)                                                          |      Otter      | 05/2023 |                 [code](https://github.com/Luodian/Otter) ⭐ 3,444 \| 🐛 65 \| 🌐 Python \| 📅 2024-03-05                 |   arXiv   |
 | [**VideoLLM: Modeling Video Sequence with Large Language Models**](https://arxiv.org/abs/2305.13292)                                                           |     VideoLLM    | 05/2023 |                        [code](https://github.com/cg1177/VideoLLM) ⭐ 157 \| 🐛 6 \| 📅 2023-08-18                        |   arXiv   |
 | [**One Trajectory, One Token: Grounded Video Tokenization via Panoptic Sub-object Trajectory**](https://arxiv.org/abs/2505.23617)                              |        -        | 05/2025 |                  [code](https://github.com/RAIVNLab/trajvit) ⭐ 63 \| 🐛 0 \| 🌐 Python \| 📅 2026-05-09                 | ICCV 2025 |
-| [**VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding**](https://arxiv.org/abs/2607.14935)                                     |    VideoChat3   | 07/2026 |                [code](https://github.com/MCG-NJU/VideoChat3) ⭐ 350 \| 🐛 3 \| 🌐 Python \| 📅 2026-10-02                |   arXiv   |
-| [**OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction**](https://arxiv.org/abs/2610.01762)                        |   OneStreamer   | 10/2026 |                [code](https://github.com/MCG-NJU/OneStreamer) ⭐ 232 \| 🐛 5 \| 🌐 Python \| 📅 2026-10-14               |   arXiv   |
+| [**VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding**](https://arxiv.org/abs/2607.14935)                                     |    VideoChat3   | 07/2026 |                [code](https://github.com/MCG-NJU/VideoChat3) ⭐ 353 \| 🐛 4 \| 🌐 Python \| 📅 2026-10-02                |   arXiv   |
+| [**OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction**](https://arxiv.org/abs/2610.01762)                        |   OneStreamer   | 10/2026 |                [code](https://github.com/MCG-NJU/OneStreamer) ⭐ 233 \| 🐛 5 \| 🌐 Python \| 📅 2026-10-14               |   arXiv   |
 
 ##### LLM as Regressor
 
@@ -244,7 +244,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**TimeChat a time-sensitive multimodal large language model for long video understanding**](https://arxiv.org/abs/2312.02051)                      |     TimeChat    | 12/2023 | [code](https://github.com/RenShuhuai-Andy/TimeChat) ⭐ 429 \| 🐛 15 \| 🌐 Python \| 📅 2025-05-08 |   CVPR  |
 | [**Self-Chained Image-Language Model for Video Localization and Question Answering**](https://arxiv.org/abs/2305.06988)                             |      SeViLA     | 11/2023 |      [code](https://github.com/Yui010206/SeViLA) ⭐ 200 \| 🐛 9 \| 🌐 Python \| 📅 2024-01-14     | NeurIPS |
 | [**VTimeLLM: Empower LLM to Grasp Video Moments**](https://arxiv.org/abs/2311.18445)                                                                |     VTimeLLM    | 11/2023 |     [code](https://github.com/huangb23/VTimeLLM) ⭐ 294 \| 🐛 14 \| 🌐 Python \| 📅 2024-06-13    |  arXiv  |
-| [**TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs**](https://arxiv.org/abs/2607.17423)                                         |    TimeLens2    | 07/2026 |     [code](https://github.com/MCG-NJU/TimeLens2) ⭐ 148 \| 🐛 1 \| 🌐 Python \| 📅 2026-10-02     |  arXiv  |
+| [**TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs**](https://arxiv.org/abs/2607.17423)                                         |    TimeLens2    | 07/2026 |     [code](https://github.com/MCG-NJU/TimeLens2) ⭐ 149 \| 🐛 0 \| 🌐 Python \| 📅 2026-10-02     |  arXiv  |
 
 ##### LLM as Hidden Layer
 
@@ -257,7 +257,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**Detours for navigating instructional videos**](https://arxiv.org/abs/2401.01823)                                                                            | VidDetours | 01/2024 |                                          [code]()                                         |   CVPR  |
 | [**OneLLM: One Framework to Align All Modalities with Language**](https://arxiv.org/abs/2312.03700)                                                            |   OneLLM   | 12/2023 |   [code](https://github.com/csuhan/OneLLM) ⭐ 667 \| 🐛 20 \| 🌐 Python \| 📅 2024-10-22   |  arXiv  |
 | [**GPT4Video a unified multimodal large language model for lnstruction-followed understanding and safety-aware generation**](https://arxiv.org/abs/2311.16511) |  GPT4Video | 11/2023 |                            [code](https://gpt4video.github.io)                            |  ACMMM  |
-| [**VideoJev: System One Model for Video Understanding and Interaction**](https://arxiv.org/abs/2610.18615)                                                     |  VideoJev  | 10/2026 |  [code](https://github.com/MCG-NJU/VideoJev) ⭐ 254 \| 🐛 2 \| 🌐 Python \| 📅 2026-10-18  |  arXiv  |
+| [**VideoJev: System One Model for Video Understanding and Interaction**](https://arxiv.org/abs/2610.18615)                                                     |  VideoJev  | 10/2026 |  [code](https://github.com/MCG-NJU/VideoJev) ⭐ 262 \| 🐛 0 \| 🌐 Python \| 📅 2026-10-18  |  arXiv  |
 
 #### 🧭 (Analyzer + Embedder) × LLM
 
@@ -352,7 +352,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**PAVE: Patching and Adapting Video Large Language Models**](https://arxiv.org/abs/2503.19794)                                                                                                                                                                                                                                                         |        PAVE        | 03/2025 |         [code](https://github.com/dragonlzm/PAVE) ⭐ 28 \| 🐛 0 \| 🌐 Python \| 📅 2026-10-22         |  CVPR |
 | [**Temporal-Oriented Recipe for Transferring Large Vision-Language Model to Video Understanding**](https://arxiv.org/abs/2505.12605)                                                                                                                                                                                                                    |   Temporal Recipe  | 05/2025 |   [code](https://github.com/nguyentthong/temporal_recipe) ⭐ 2 \| 🐛 0 \| 🌐 Python \| 📅 2025-07-09  | arXiv |
 | [**Watch Before You Answer: Learning from Visually Grounded Post-Training**](https://arxiv.org/abs/2604.05117)                                                                                                                                                                                                                                          |      VidGround     | 04/2026 |       [code](https://github.com/reacher-z/vidground) ⭐ 58 \| 🐛 1 \| 🌐 Python \| 📅 2026-09-15      | arXiv |
-| [**Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World**](https://arxiv.org/abs/2609.23038)                                                                                                                                                                                                           | Spatial-Interactor | 09/2026 |  [code](https://github.com/ZJU-OmniAI/Spatial-Interactor) ⭐ 88 \| 🐛 1 \| 🌐 Python \| 📅 2026-10-15 | arXiv |
+| [**Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World**](https://arxiv.org/abs/2609.23038)                                                                                                                                                                                                           | Spatial-Interactor | 09/2026 |  [code](https://github.com/ZJU-OmniAI/Spatial-Interactor) ⭐ 88 \| 🐛 1 \| 🌐 Python \| 📅 2026-10-26 | arXiv |
 
 ##### Fine-tuning with Insertive Adapters
 
@@ -461,7 +461,7 @@ If you find our survey useful for your research, please cite the following paper
 | **VidChapters-7M** |                                [**VidChapters-7M: Video Chapters at Scale**](https://arxiv.org/abs/2309.13952)                               | 2023 |                                    [Link](https://antoyang.github.io/vidchapters.html)                                    | NeurIPS |
 | **VALOR-1M**       |              [**VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**](https://arxiv.org/abs/2304.08345)              | 2023 |                  [Link](https://github.com/TXH-mercury/VALOR) ⭐ 311 \| 🐛 8 \| 🌐 Python \| 📅 2024-12-25                 |  arXiv  |
 | **Youku-mPLUG**    | [**Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks**](https://arxiv.org/abs/2306.04362) | 2023 |                 [Link](https://github.com/X-PLUG/Youku-mPLUG) ⭐ 313 \| 🐛 25 \| 🌐 Python \| 📅 2024-01-08                |  arXiv  |
-| **InternVid**      |        [**InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**](https://arxiv.org/abs/2307.06942)       | 2023 | [Link](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid) ⭐ 2,412 \| 🐛 147 \| 🌐 Python \| 📅 2026-07-02 |  arXiv  |
+| **InternVid**      |        [**InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**](https://arxiv.org/abs/2307.06942)       | 2023 | [Link](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid) ⭐ 2,414 \| 🐛 147 \| 🌐 Python \| 📅 2026-07-02 |  arXiv  |
 | **VAST-27M**       |             [**VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset**](https://arxiv.org/abs/2305.18500)            | 2023 |             [Link](https://github.com/TXH-mercury/VAST) ⭐ 304 \| 🐛 22 \| 🌐 Jupyter Notebook \| 📅 2024-03-14            | NeurIPS |
 
 ##### Fine-tuning Dataset
@@ -504,13 +504,13 @@ We welcome everyone to contribute to this repository and help improve it. You ca
 
 ### 🌟 Star History
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=yunlong10/Awesome-LLMs-for-Video-Understanding\&type=Date)](https://star-history.dera.page/#yunlong10/Awesome-LLMs-for-Video-Understanding\&type=date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=yoloytang/Awesome-LLMs-for-Video-Understanding\&type=Date)](https://star-history.dera.page/#yoloytang/Awesome-LLMs-for-Video-Understanding\&type=date)
 
 ### ♥️ Contributors
 
 Our project wouldn't be possible without the contributions of these amazing people! Thank you all for making this project better.
 
-[Yolo Y. Tang](https://yunlong10.github.io) @ University of Rochester \
+[Yolo Y. Tang](https://yoloytang.me) @ University of Rochester \
 [Jing Bi](https://jing-bi.github.io) @ University of Rochester \
 [Siting Xu](https://sai-01.github.io) @ Southern University of Science and Technology \
 [Luchuan Song](https://songluchuan.github.io) @ University of Rochester \
@@ -531,10 +531,10 @@ Our project wouldn't be possible without the contributions of these amazing peop
 [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/) @ University of Rochester \
 [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/index.html) @ University of Rochester
 
-<a href="https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yunlong10/Awesome-LLMs-for-Video-Understanding" />
+<a href="https://github.com/yoloytang/Awesome-LLMs-for-Video-Understanding/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=yoloytang/Awesome-LLMs-for-Video-Understanding" />
 </a>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._

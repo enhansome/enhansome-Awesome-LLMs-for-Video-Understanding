@@ -441,7 +441,7 @@
                         "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1555,
+                        "stars": 1556,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -736,7 +736,7 @@
                         "open_issues": 147,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2412,
+                        "stars": 2414,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -898,7 +898,7 @@
                         "open_issues": 78,
                         "owner": "NVlabs",
                         "repo": "VILA",
-                        "stars": 3866,
+                        "stars": 3867,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -1239,10 +1239,10 @@
                         "language": "Python",
                         "license": null,
                         "last_commit": "2026-10-02T07:35:21Z",
-                        "open_issues": 3,
+                        "open_issues": 4,
                         "owner": "MCG-NJU",
                         "repo": "VideoChat3",
-                        "stars": 350,
+                        "stars": 353,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1263,7 +1263,7 @@
                         "open_issues": 5,
                         "owner": "MCG-NJU",
                         "repo": "OneStreamer",
-                        "stars": 232,
+                        "stars": 233,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1451,10 +1451,10 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-02T07:27:17Z",
-                        "open_issues": 1,
+                        "open_issues": 0,
                         "owner": "MCG-NJU",
                         "repo": "TimeLens2",
-                        "stars": 148,
+                        "stars": 149,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1569,10 +1569,10 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-10-18T08:17:17Z",
-                        "open_issues": 2,
+                        "open_issues": 0,
                         "owner": "MCG-NJU",
                         "repo": "VideoJev",
-                        "stars": 254,
+                        "stars": 262,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -2345,7 +2345,7 @@
                         "id": 1368647527,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-15T05:39:01Z",
+                        "last_commit": "2026-10-26T21:08:19Z",
                         "open_issues": 1,
                         "owner": "ZJU-OmniAI",
                         "repo": "Spatial-Interactor",
@@ -3238,7 +3238,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2412,
+                    "stars": 2414,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3764,7 +3764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:09:00.543Z",
+    "last_updated": "2026-10-27T19:38:44.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3772,14 +3772,14 @@
       "id": 666960664,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-17T08:14:13Z",
+      "last_commit": "2026-10-27T09:14:07Z",
       "open_issues": 7,
-      "owner": "yunlong10",
+      "owner": "yoloytang",
       "repo": "Awesome-LLMs-for-Video-Understanding",
       "stars": 3301,
       "topics": []
     },
-    "original_repository_sha": "25d5d6cda1b0cb3af22f237e6e5356eedc2ad7af",
+    "original_repository_sha": "af31145295a42bd970c9425fe3114bde53c01846",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLMs-for-Video-Understanding",
     "enhanced_repository_description": null,
     "title": "Awesome-LLMs-for-Video-Understanding with stars"
