@@ -328,7 +328,7 @@
                         "open_issues": 2,
                         "owner": "TaoLiveAIGC",
                         "repo": "TLive-Omni",
-                        "stars": 339,
+                        "stars": 340,
                         "topics": [
                           "audio-understanding",
                           "large-language-models",
@@ -441,7 +441,7 @@
                         "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1561,
+                        "stars": 1563,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -516,7 +516,7 @@
                         "open_issues": 88,
                         "owner": "DAMO-NLP-SG",
                         "repo": "VideoLLaMA2",
-                        "stars": 1307,
+                        "stars": 1308,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -692,7 +692,7 @@
                         "open_issues": 32,
                         "owner": "bytedance",
                         "repo": "tarsier",
-                        "stars": 553,
+                        "stars": 554,
                         "topics": [
                           "research"
                         ]
@@ -736,7 +736,7 @@
                         "open_issues": 147,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2414,
+                        "stars": 2415,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -1263,7 +1263,7 @@
                         "open_issues": 5,
                         "owner": "MCG-NJU",
                         "repo": "OneStreamer",
-                        "stars": 239,
+                        "stars": 240,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1572,7 +1572,7 @@
                         "open_issues": 0,
                         "owner": "MCG-NJU",
                         "repo": "VideoJev",
-                        "stars": 272,
+                        "stars": 276,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -2255,7 +2255,7 @@
                         "open_issues": 88,
                         "owner": "DAMO-NLP-SG",
                         "repo": "VideoLLaMA2",
-                        "stars": 1307,
+                        "stars": 1308,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -2668,7 +2668,7 @@
                     "open_issues": 0,
                     "owner": "thenaivekid",
                     "repo": "foresight",
-                    "stars": 1,
+                    "stars": 2,
                     "topics": [
                       "arxiv",
                       "asynchronous-inference",
@@ -3238,7 +3238,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2414,
+                    "stars": 2415,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3764,7 +3764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:51:56.152Z",
+    "last_updated": "2026-10-30T19:42:22.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3776,7 +3776,7 @@
       "open_issues": 7,
       "owner": "yoloytang",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3303,
+      "stars": 3304,
       "topics": []
     },
     "original_repository_sha": "af31145295a42bd970c9425fe3114bde53c01846",
