@@ -113,7 +113,7 @@
                         "open_issues": 22,
                         "owner": "CASIA-IVA-Lab",
                         "repo": "VAST",
-                        "stars": 304,
+                        "stars": 303,
                         "topics": [
                           "audio-language",
                           "cross-modality-pretraining",
@@ -597,7 +597,7 @@
                         "open_issues": 42,
                         "owner": "wenhaochai",
                         "repo": "MovieChat",
-                        "stars": 709,
+                        "stars": 710,
                         "topics": [
                           "computer-vision",
                           "dataset",
@@ -966,7 +966,7 @@
                         "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3510,
+                        "stars": 3509,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -1071,7 +1071,7 @@
                         "open_issues": 28,
                         "owner": "mbzuai-oryx",
                         "repo": "Video-ChatGPT",
-                        "stars": 1515,
+                        "stars": 1516,
                         "topics": [
                           "chatbot",
                           "clip",
@@ -1242,7 +1242,7 @@
                         "open_issues": 5,
                         "owner": "MCG-NJU",
                         "repo": "VideoChat3",
-                        "stars": 356,
+                        "stars": 357,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1572,7 +1572,7 @@
                         "open_issues": 0,
                         "owner": "MCG-NJU",
                         "repo": "VideoJev",
-                        "stars": 289,
+                        "stars": 290,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1879,7 +1879,7 @@
                     "open_issues": 22,
                     "owner": "CASIA-IVA-Lab",
                     "repo": "VAST",
-                    "stars": 304,
+                    "stars": 303,
                     "topics": [
                       "audio-language",
                       "cross-modality-pretraining",
@@ -1967,7 +1967,7 @@
                         "open_issues": 28,
                         "owner": "mbzuai-oryx",
                         "repo": "Video-ChatGPT",
-                        "stars": 1515,
+                        "stars": 1516,
                         "topics": [
                           "chatbot",
                           "clip",
@@ -2086,7 +2086,7 @@
                         "open_issues": 42,
                         "owner": "wenhaochai",
                         "repo": "MovieChat",
-                        "stars": 709,
+                        "stars": 710,
                         "topics": [
                           "computer-vision",
                           "dataset",
@@ -2141,7 +2141,7 @@
                         "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3510,
+                        "stars": 3509,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -3280,7 +3280,7 @@
                     "open_issues": 22,
                     "owner": "CASIA-IVA-Lab",
                     "repo": "VAST",
-                    "stars": 304,
+                    "stars": 303,
                     "topics": [
                       "audio-language",
                       "cross-modality-pretraining",
@@ -3736,7 +3736,7 @@
                 "id": 1357950822,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-12T03:02:16Z",
+                "last_commit": "2026-11-04T06:02:57Z",
                 "open_issues": 0,
                 "owner": "Thordata",
                 "repo": "video-dataset-toolkit",
@@ -3764,7 +3764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:38:30.056Z",
+    "last_updated": "2026-11-04T20:55:50.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
