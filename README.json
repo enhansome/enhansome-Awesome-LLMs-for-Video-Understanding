@@ -113,7 +113,7 @@
                         "open_issues": 22,
                         "owner": "CASIA-IVA-Lab",
                         "repo": "VAST",
-                        "stars": 303,
+                        "stars": 304,
                         "topics": [
                           "audio-language",
                           "cross-modality-pretraining",
@@ -441,7 +441,7 @@
                         "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1566,
+                        "stars": 1567,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -898,7 +898,7 @@
                         "open_issues": 78,
                         "owner": "NVlabs",
                         "repo": "VILA",
-                        "stars": 3870,
+                        "stars": 3871,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -1043,7 +1043,7 @@
                         "open_issues": 22,
                         "owner": "lyuchenyang",
                         "repo": "Macaw-LLM",
-                        "stars": 1591,
+                        "stars": 1592,
                         "topics": [
                           "deep-learning",
                           "language-model",
@@ -1242,7 +1242,7 @@
                         "open_issues": 5,
                         "owner": "MCG-NJU",
                         "repo": "VideoChat3",
-                        "stars": 360,
+                        "stars": 361,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1263,7 +1263,7 @@
                         "open_issues": 5,
                         "owner": "MCG-NJU",
                         "repo": "OneStreamer",
-                        "stars": 244,
+                        "stars": 243,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1572,7 +1572,7 @@
                         "open_issues": 0,
                         "owner": "MCG-NJU",
                         "repo": "VideoJev",
-                        "stars": 293,
+                        "stars": 294,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1879,7 +1879,7 @@
                     "open_issues": 22,
                     "owner": "CASIA-IVA-Lab",
                     "repo": "VAST",
-                    "stars": 303,
+                    "stars": 304,
                     "topics": [
                       "audio-language",
                       "cross-modality-pretraining",
@@ -2000,7 +2000,7 @@
                         "open_issues": 22,
                         "owner": "lyuchenyang",
                         "repo": "Macaw-LLM",
-                        "stars": 1591,
+                        "stars": 1592,
                         "topics": [
                           "deep-learning",
                           "language-model",
@@ -3280,7 +3280,7 @@
                     "open_issues": 22,
                     "owner": "CASIA-IVA-Lab",
                     "repo": "VAST",
-                    "stars": 303,
+                    "stars": 304,
                     "topics": [
                       "audio-language",
                       "cross-modality-pretraining",
@@ -3406,7 +3406,7 @@
                 "open_issues": 0,
                 "owner": "google-deepmind",
                 "repo": "perception_test",
-                "stars": 264,
+                "stars": 265,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3764,7 +3764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:13:47.432Z",
+    "last_updated": "2026-11-06T20:34:13.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3776,7 +3776,7 @@
       "open_issues": 7,
       "owner": "yoloytang",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3306,
+      "stars": 3307,
       "topics": []
     },
     "original_repository_sha": "af31145295a42bd970c9425fe3114bde53c01846",
