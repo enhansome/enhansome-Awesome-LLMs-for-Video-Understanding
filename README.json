@@ -441,7 +441,7 @@
                         "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1567,
+                        "stars": 1568,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -736,7 +736,7 @@
                         "open_issues": 148,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2415,
+                        "stars": 2416,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -966,7 +966,7 @@
                         "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3509,
+                        "stars": 3510,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -1572,7 +1572,7 @@
                         "open_issues": 0,
                         "owner": "MCG-NJU",
                         "repo": "VideoJev",
-                        "stars": 294,
+                        "stars": 296,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -2141,7 +2141,7 @@
                         "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3509,
+                        "stars": 3510,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -3238,7 +3238,7 @@
                     "open_issues": 148,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2415,
+                    "stars": 2416,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3764,7 +3764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:34:13.319Z",
+    "last_updated": "2026-11-07T19:02:49.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3773,7 +3773,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-27T09:14:07Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "yoloytang",
       "repo": "Awesome-LLMs-for-Video-Understanding",
       "stars": 3307,
