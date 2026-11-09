@@ -141,7 +141,7 @@
                         "open_issues": 9,
                         "owner": "showlab",
                         "repo": "VLog",
-                        "stars": 588,
+                        "stars": 589,
                         "topics": [
                           "chatgpt",
                           "langchain",
@@ -441,7 +441,7 @@
                         "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1569,
+                        "stars": 1571,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -537,7 +537,7 @@
                         "open_issues": 74,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3363,
+                        "stars": 3361,
                         "topics": [
                           "big-model",
                           "captioning-videos",
@@ -597,7 +597,7 @@
                         "open_issues": 42,
                         "owner": "wenhaochai",
                         "repo": "MovieChat",
-                        "stars": 712,
+                        "stars": 711,
                         "topics": [
                           "computer-vision",
                           "dataset",
@@ -736,7 +736,7 @@
                         "open_issues": 148,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2415,
+                        "stars": 2416,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -1104,7 +1104,7 @@
                         "open_issues": 69,
                         "owner": "DAMO-NLP-SG",
                         "repo": "Video-LLaMA",
-                        "stars": 3139,
+                        "stars": 3138,
                         "topics": [
                           "blip2",
                           "cross-modal-pretraining",
@@ -1263,10 +1263,31 @@
                         "open_issues": 5,
                         "owner": "MCG-NJU",
                         "repo": "OneStreamer",
-                        "stars": 243,
+                        "stars": 244,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence",
+                      "description": "JoyAI-VL-Interaction 06/2026 code arXiv",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "JoyAI-VL-Interaction: An Open Real-time Video-Language Interaction System",
+                        "homepage": "https://joyai-vl-video-future-academy-jd.github.io/JoyAI-VL-Interaction/",
+                        "id": 1266113070,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-11-04T14:57:38Z",
+                        "open_issues": 43,
+                        "owner": "jd-opensource",
+                        "repo": "JoyAI-VL-Interaction",
+                        "stars": 2025,
+                        "topics": []
+                      },
+                      "first_seen": "2026-11-09T23:34:35.075Z"
                     }
                   ],
                   "description": null,
@@ -1572,10 +1593,31 @@
                         "open_issues": 0,
                         "owner": "MCG-NJU",
                         "repo": "VideoJev",
-                        "stars": 298,
+                        "stars": 301,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "MJev-Spatial: System One Spatial Intelligence via Native Attention Matching",
+                      "description": "MJev-Spatial 10/2026 code arXiv",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 1384493797,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-10-16T06:53:29Z",
+                        "open_issues": 0,
+                        "owner": "Fr0zenCrane",
+                        "repo": "MJev-Spatial",
+                        "stars": 23,
+                        "topics": []
+                      },
+                      "first_seen": "2026-11-09T23:34:35.075Z"
                     }
                   ],
                   "description": null,
@@ -1628,7 +1670,7 @@
                         "open_issues": 74,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3363,
+                        "stars": 3361,
                         "topics": [
                           "big-model",
                           "captioning-videos",
@@ -1739,7 +1781,7 @@
                     "open_issues": 9,
                     "owner": "showlab",
                     "repo": "VLog",
-                    "stars": 588,
+                    "stars": 589,
                     "topics": [
                       "chatgpt",
                       "langchain",
@@ -1916,7 +1958,7 @@
                         "open_issues": 69,
                         "owner": "DAMO-NLP-SG",
                         "repo": "Video-LLaMA",
-                        "stars": 3139,
+                        "stars": 3138,
                         "topics": [
                           "blip2",
                           "cross-modal-pretraining",
@@ -2086,7 +2128,7 @@
                         "open_issues": 42,
                         "owner": "wenhaochai",
                         "repo": "MovieChat",
-                        "stars": 712,
+                        "stars": 711,
                         "topics": [
                           "computer-vision",
                           "dataset",
@@ -2477,7 +2519,7 @@
                     "open_issues": 74,
                     "owner": "OpenGVLab",
                     "repo": "Ask-Anything",
-                    "stars": 3363,
+                    "stars": 3361,
                     "topics": [
                       "big-model",
                       "captioning-videos",
@@ -3238,7 +3280,7 @@
                     "open_issues": 148,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2415,
+                    "stars": 2416,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3481,7 +3523,7 @@
                 "open_issues": 74,
                 "owner": "OpenGVLab",
                 "repo": "Ask-Anything",
-                "stars": 3363,
+                "stars": 3361,
                 "topics": [
                   "big-model",
                   "captioning-videos",
@@ -3764,7 +3806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:09:01.167Z",
+    "last_updated": "2026-11-09T23:34:35.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3772,14 +3814,14 @@
       "id": 666960664,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-27T09:14:07Z",
+      "last_commit": "2026-11-08T23:18:10Z",
       "open_issues": 8,
       "owner": "yoloytang",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3307,
+      "stars": 3308,
       "topics": []
     },
-    "original_repository_sha": "af31145295a42bd970c9425fe3114bde53c01846",
+    "original_repository_sha": "a9d0fba3461b069fa14871b5586b57b4ea821405",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLMs-for-Video-Understanding",
     "enhanced_repository_description": null,
     "title": "Awesome-LLMs-for-Video-Understanding with stars"
