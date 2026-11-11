@@ -1167,7 +1167,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3442,
+                        "stars": 3441,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -1242,7 +1242,7 @@
                         "open_issues": 5,
                         "owner": "MCG-NJU",
                         "repo": "VideoChat3",
-                        "stars": 361,
+                        "stars": 362,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1284,7 +1284,7 @@
                         "open_issues": 43,
                         "owner": "jd-opensource",
                         "repo": "JoyAI-VL-Interaction",
-                        "stars": 2027,
+                        "stars": 2031,
                         "topics": []
                       },
                       "first_seen": "2026-11-09T23:34:35.075Z"
@@ -1475,10 +1475,31 @@
                         "open_issues": 0,
                         "owner": "MCG-NJU",
                         "repo": "TimeLens2",
-                        "stars": 149,
+                        "stars": 150,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Grounding with Confidence: Controllable Generative Video Temporal Grounding",
+                      "description": "CTVG-4B 09/2026 code arXiv",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 1412871480,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2026-10-10T07:04:33Z",
+                        "open_issues": 0,
+                        "owner": "Alibaba-VELLDEPTH",
+                        "repo": "Grounding-with-Confidence",
+                        "stars": 6,
+                        "topics": []
+                      },
+                      "first_seen": "2026-11-11T21:32:16.422Z"
                     }
                   ],
                   "description": null,
@@ -1572,7 +1593,7 @@
                         "open_issues": 20,
                         "owner": "csuhan",
                         "repo": "OneLLM",
-                        "stars": 667,
+                        "stars": 666,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -1593,7 +1614,7 @@
                         "open_issues": 0,
                         "owner": "MCG-NJU",
                         "repo": "VideoJev",
-                        "stars": 306,
+                        "stars": 308,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -2391,7 +2412,7 @@
                         "open_issues": 1,
                         "owner": "ZJU-OmniAI",
                         "repo": "Spatial-Interactor",
-                        "stars": 89,
+                        "stars": 90,
                         "topics": [
                           "embodied-ai",
                           "on-policy-distillation",
@@ -2425,7 +2446,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3442,
+                        "stars": 3441,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -3357,7 +3378,7 @@
                     "open_issues": 65,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "Otter",
-                    "stars": 3442,
+                    "stars": 3441,
                     "topics": [
                       "artificial-inteligence",
                       "chatgpt",
@@ -3806,7 +3827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:00:16.166Z",
+    "last_updated": "2026-11-11T21:32:16.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3814,14 +3835,14 @@
       "id": 666960664,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-08T23:18:10Z",
-      "open_issues": 8,
+      "last_commit": "2026-11-11T11:53:50Z",
+      "open_issues": 7,
       "owner": "yoloytang",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3307,
+      "stars": 3308,
       "topics": []
     },
-    "original_repository_sha": "a9d0fba3461b069fa14871b5586b57b4ea821405",
+    "original_repository_sha": "afce397b5ed41056f841d3a83c2783bc8ff1db64",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLMs-for-Video-Understanding",
     "enhanced_repository_description": null,
     "title": "Awesome-LLMs-for-Video-Understanding with stars"
