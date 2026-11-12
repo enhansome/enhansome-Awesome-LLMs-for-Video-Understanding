@@ -441,7 +441,7 @@
                         "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1571,
+                        "stars": 1572,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -945,7 +945,7 @@
                         "open_issues": 44,
                         "owner": "JIA-Lab-research",
                         "repo": "LLaMA-VID",
-                        "stars": 863,
+                        "stars": 864,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -966,7 +966,7 @@
                         "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3510,
+                        "stars": 3509,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -1104,7 +1104,7 @@
                         "open_issues": 69,
                         "owner": "DAMO-NLP-SG",
                         "repo": "Video-LLaMA",
-                        "stars": 3138,
+                        "stars": 3139,
                         "topics": [
                           "blip2",
                           "cross-modal-pretraining",
@@ -1167,7 +1167,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3441,
+                        "stars": 3440,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -1263,7 +1263,7 @@
                         "open_issues": 5,
                         "owner": "MCG-NJU",
                         "repo": "OneStreamer",
-                        "stars": 244,
+                        "stars": 246,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1284,7 +1284,7 @@
                         "open_issues": 43,
                         "owner": "jd-opensource",
                         "repo": "JoyAI-VL-Interaction",
-                        "stars": 2031,
+                        "stars": 2032,
                         "topics": []
                       },
                       "first_seen": "2026-11-09T23:34:35.075Z"
@@ -1614,7 +1614,7 @@
                         "open_issues": 0,
                         "owner": "MCG-NJU",
                         "repo": "VideoJev",
-                        "stars": 308,
+                        "stars": 309,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1979,7 +1979,7 @@
                         "open_issues": 69,
                         "owner": "DAMO-NLP-SG",
                         "repo": "Video-LLaMA",
-                        "stars": 3138,
+                        "stars": 3139,
                         "topics": [
                           "blip2",
                           "cross-modal-pretraining",
@@ -2204,7 +2204,7 @@
                         "open_issues": 126,
                         "owner": "PKU-YuanGroup",
                         "repo": "Video-LLaVA",
-                        "stars": 3510,
+                        "stars": 3509,
                         "topics": [
                           "instruction-tuning",
                           "large-vision-language-model",
@@ -2255,7 +2255,7 @@
                         "open_issues": 44,
                         "owner": "JIA-Lab-research",
                         "repo": "LLaMA-VID",
-                        "stars": 863,
+                        "stars": 864,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -2446,7 +2446,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3441,
+                        "stars": 3440,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -3378,7 +3378,7 @@
                     "open_issues": 65,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "Otter",
-                    "stars": 3441,
+                    "stars": 3440,
                     "topics": [
                       "artificial-inteligence",
                       "chatgpt",
@@ -3827,7 +3827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:32:16.422Z",
+    "last_updated": "2026-11-12T21:35:51.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3839,7 +3839,7 @@
       "open_issues": 7,
       "owner": "yoloytang",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3308,
+      "stars": 3309,
       "topics": []
     },
     "original_repository_sha": "afce397b5ed41056f841d3a83c2783bc8ff1db64",
