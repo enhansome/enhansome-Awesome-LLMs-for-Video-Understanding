@@ -441,7 +441,7 @@
                         "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1572,
+                        "stars": 1573,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -736,7 +736,7 @@
                         "open_issues": 148,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2416,
+                        "stars": 2417,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -1167,7 +1167,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3440,
+                        "stars": 3441,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -1239,7 +1239,7 @@
                         "language": "Python",
                         "license": null,
                         "last_commit": "2026-10-02T07:35:21Z",
-                        "open_issues": 5,
+                        "open_issues": 6,
                         "owner": "MCG-NJU",
                         "repo": "VideoChat3",
                         "stars": 362,
@@ -1263,7 +1263,7 @@
                         "open_issues": 5,
                         "owner": "MCG-NJU",
                         "repo": "OneStreamer",
-                        "stars": 246,
+                        "stars": 247,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1496,7 +1496,7 @@
                         "open_issues": 0,
                         "owner": "Alibaba-VELLDEPTH",
                         "repo": "Grounding-with-Confidence",
-                        "stars": 6,
+                        "stars": 7,
                         "topics": []
                       },
                       "first_seen": "2026-11-11T21:32:16.422Z"
@@ -2339,7 +2339,7 @@
                         "open_issues": 0,
                         "owner": "dragonlzm",
                         "repo": "PAVE",
-                        "stars": 28,
+                        "stars": 27,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -2446,7 +2446,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3440,
+                        "stars": 3441,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -3301,7 +3301,7 @@
                     "open_issues": 148,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2416,
+                    "stars": 2417,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3378,7 +3378,7 @@
                     "open_issues": 65,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "Otter",
-                    "stars": 3440,
+                    "stars": 3441,
                     "topics": [
                       "artificial-inteligence",
                       "chatgpt",
@@ -3827,7 +3827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:35:51.645Z",
+    "last_updated": "2026-11-13T20:59:17.012Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
