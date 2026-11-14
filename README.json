@@ -441,7 +441,7 @@
                         "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1573,
+                        "stars": 1572,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -1071,7 +1071,7 @@
                         "open_issues": 28,
                         "owner": "mbzuai-oryx",
                         "repo": "Video-ChatGPT",
-                        "stars": 1516,
+                        "stars": 1517,
                         "topics": [
                           "chatbot",
                           "clip",
@@ -1284,7 +1284,7 @@
                         "open_issues": 43,
                         "owner": "jd-opensource",
                         "repo": "JoyAI-VL-Interaction",
-                        "stars": 2032,
+                        "stars": 2035,
                         "topics": []
                       },
                       "first_seen": "2026-11-09T23:34:35.075Z"
@@ -1614,7 +1614,7 @@
                         "open_issues": 0,
                         "owner": "MCG-NJU",
                         "repo": "VideoJev",
-                        "stars": 309,
+                        "stars": 310,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -2030,7 +2030,7 @@
                         "open_issues": 28,
                         "owner": "mbzuai-oryx",
                         "repo": "Video-ChatGPT",
-                        "stars": 1516,
+                        "stars": 1517,
                         "topics": [
                           "chatbot",
                           "clip",
@@ -2727,7 +2727,7 @@
                     "id": 1401139812,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-06T16:39:30Z",
+                    "last_commit": "2026-11-14T01:36:43Z",
                     "open_issues": 0,
                     "owner": "thenaivekid",
                     "repo": "foresight",
@@ -3827,7 +3827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:59:17.012Z",
+    "last_updated": "2026-11-14T19:28:30.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
