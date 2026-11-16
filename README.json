@@ -113,7 +113,7 @@
                         "open_issues": 22,
                         "owner": "CASIA-IVA-Lab",
                         "repo": "VAST",
-                        "stars": 304,
+                        "stars": 305,
                         "topics": [
                           "audio-language",
                           "cross-modality-pretraining",
@@ -169,7 +169,7 @@
                         "open_issues": 19,
                         "owner": "facebookresearch",
                         "repo": "LaViLa",
-                        "stars": 535,
+                        "stars": 536,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -441,7 +441,7 @@
                         "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1573,
+                        "stars": 1574,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -516,7 +516,7 @@
                         "open_issues": 88,
                         "owner": "DAMO-NLP-SG",
                         "repo": "VideoLLaMA2",
-                        "stars": 1309,
+                        "stars": 1310,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -736,7 +736,7 @@
                         "open_issues": 148,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2419,
+                        "stars": 2420,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -823,7 +823,7 @@
                         "id": 763732457,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-04-06T21:48:19Z",
+                        "last_commit": "2026-11-16T19:29:19Z",
                         "open_issues": 0,
                         "owner": "nguyennm1024",
                         "repo": "OSCaR",
@@ -1263,7 +1263,7 @@
                         "open_issues": 5,
                         "owner": "MCG-NJU",
                         "repo": "OneStreamer",
-                        "stars": 247,
+                        "stars": 248,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1284,7 +1284,7 @@
                         "open_issues": 43,
                         "owner": "jd-opensource",
                         "repo": "JoyAI-VL-Interaction",
-                        "stars": 2037,
+                        "stars": 2038,
                         "topics": []
                       },
                       "first_seen": "2026-11-09T23:34:35.075Z"
@@ -1475,7 +1475,7 @@
                         "open_issues": 0,
                         "owner": "MCG-NJU",
                         "repo": "TimeLens2",
-                        "stars": 150,
+                        "stars": 151,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1614,7 +1614,7 @@
                         "open_issues": 0,
                         "owner": "MCG-NJU",
                         "repo": "VideoJev",
-                        "stars": 310,
+                        "stars": 311,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1635,7 +1635,7 @@
                         "open_issues": 0,
                         "owner": "Fr0zenCrane",
                         "repo": "MJev-Spatial",
-                        "stars": 23,
+                        "stars": 24,
                         "topics": []
                       },
                       "first_seen": "2026-11-09T23:34:35.075Z"
@@ -1921,7 +1921,7 @@
                     "open_issues": 19,
                     "owner": "facebookresearch",
                     "repo": "LaViLa",
-                    "stars": 535,
+                    "stars": 536,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:41:16.929Z"
@@ -1942,7 +1942,7 @@
                     "open_issues": 22,
                     "owner": "CASIA-IVA-Lab",
                     "repo": "VAST",
-                    "stars": 304,
+                    "stars": 305,
                     "topics": [
                       "audio-language",
                       "cross-modality-pretraining",
@@ -2318,7 +2318,7 @@
                         "open_issues": 88,
                         "owner": "DAMO-NLP-SG",
                         "repo": "VideoLLaMA2",
-                        "stars": 1309,
+                        "stars": 1310,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3242,7 +3242,7 @@
                     "open_issues": 8,
                     "owner": "CASIA-IVA-Lab",
                     "repo": "VALOR",
-                    "stars": 311,
+                    "stars": 312,
                     "topics": [
                       "audio-language-pretraining",
                       "audiovisual-language-pretraining",
@@ -3301,7 +3301,7 @@
                     "open_issues": 148,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2419,
+                    "stars": 2420,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3343,7 +3343,7 @@
                     "open_issues": 22,
                     "owner": "CASIA-IVA-Lab",
                     "repo": "VAST",
-                    "stars": 304,
+                    "stars": 305,
                     "topics": [
                       "audio-language",
                       "cross-modality-pretraining",
@@ -3604,7 +3604,7 @@
                 "open_issues": 11,
                 "owner": "MME-Benchmarks",
                 "repo": "Video-MME",
-                "stars": 803,
+                "stars": 804,
                 "topics": [
                   "large-language-models",
                   "large-vision-language-models",
@@ -3827,7 +3827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:56:54.830Z",
+    "last_updated": "2026-11-16T23:30:30.362Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
