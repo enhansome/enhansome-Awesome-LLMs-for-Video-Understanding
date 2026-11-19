@@ -441,7 +441,7 @@
                         "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "SALMONN",
-                        "stars": 1576,
+                        "stars": 1577,
                         "topics": [
                           "audio",
                           "audio-processing",
@@ -895,7 +895,7 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-03-12T01:04:00Z",
-                        "open_issues": 78,
+                        "open_issues": 79,
                         "owner": "NVlabs",
                         "repo": "VILA",
                         "stars": 3874,
@@ -916,7 +916,7 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2024-10-16T11:08:54Z",
-                        "open_issues": 20,
+                        "open_issues": 21,
                         "owner": "PKU-YuanGroup",
                         "repo": "Chat-UniVi",
                         "stars": 945,
@@ -1242,7 +1242,7 @@
                         "open_issues": 3,
                         "owner": "MCG-NJU",
                         "repo": "VideoChat3",
-                        "stars": 364,
+                        "stars": 365,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1259,11 +1259,11 @@
                         "id": 1397885809,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-14T16:22:17Z",
+                        "last_commit": "2026-11-19T15:52:07Z",
                         "open_issues": 5,
                         "owner": "MCG-NJU",
                         "repo": "OneStreamer",
-                        "stars": 247,
+                        "stars": 248,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1284,7 +1284,7 @@
                         "open_issues": 43,
                         "owner": "jd-opensource",
                         "repo": "JoyAI-VL-Interaction",
-                        "stars": 2044,
+                        "stars": 2047,
                         "topics": []
                       },
                       "first_seen": "2026-11-09T23:34:35.075Z"
@@ -1614,7 +1614,7 @@
                         "open_issues": 0,
                         "owner": "MCG-NJU",
                         "repo": "VideoJev",
-                        "stars": 314,
+                        "stars": 316,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1893,7 +1893,7 @@
                     "open_issues": 7,
                     "owner": "MCG-NJU",
                     "repo": "Video-o3",
-                    "stars": 131,
+                    "stars": 132,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T17:32:29.374Z"
@@ -2226,7 +2226,7 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2024-10-16T11:08:54Z",
-                        "open_issues": 20,
+                        "open_issues": 21,
                         "owner": "PKU-YuanGroup",
                         "repo": "Chat-UniVi",
                         "stars": 945,
@@ -3827,7 +3827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:20:06.873Z",
+    "last_updated": "2026-11-19T22:27:02.458Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
