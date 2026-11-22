@@ -597,7 +597,7 @@
                         "open_issues": 42,
                         "owner": "wenhaochai",
                         "repo": "MovieChat",
-                        "stars": 711,
+                        "stars": 710,
                         "topics": [
                           "computer-vision",
                           "dataset",
@@ -692,7 +692,7 @@
                         "open_issues": 32,
                         "owner": "bytedance",
                         "repo": "tarsier",
-                        "stars": 554,
+                        "stars": 555,
                         "topics": [
                           "research"
                         ]
@@ -733,7 +733,7 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-07-02T03:20:41Z",
-                        "open_issues": 148,
+                        "open_issues": 149,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
                         "stars": 2421,
@@ -1071,7 +1071,7 @@
                         "open_issues": 28,
                         "owner": "mbzuai-oryx",
                         "repo": "Video-ChatGPT",
-                        "stars": 1516,
+                        "stars": 1517,
                         "topics": [
                           "chatbot",
                           "clip",
@@ -1167,7 +1167,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3438,
+                        "stars": 3439,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -1284,7 +1284,7 @@
                         "open_issues": 43,
                         "owner": "jd-opensource",
                         "repo": "JoyAI-VL-Interaction",
-                        "stars": 2048,
+                        "stars": 2049,
                         "topics": []
                       },
                       "first_seen": "2026-11-09T23:34:35.075Z"
@@ -1475,7 +1475,7 @@
                         "open_issues": 0,
                         "owner": "MCG-NJU",
                         "repo": "TimeLens2",
-                        "stars": 152,
+                        "stars": 153,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -2030,7 +2030,7 @@
                         "open_issues": 28,
                         "owner": "mbzuai-oryx",
                         "repo": "Video-ChatGPT",
-                        "stars": 1516,
+                        "stars": 1517,
                         "topics": [
                           "chatbot",
                           "clip",
@@ -2149,7 +2149,7 @@
                         "open_issues": 42,
                         "owner": "wenhaochai",
                         "repo": "MovieChat",
-                        "stars": 711,
+                        "stars": 710,
                         "topics": [
                           "computer-vision",
                           "dataset",
@@ -2446,7 +2446,7 @@
                         "open_issues": 65,
                         "owner": "EvolvingLMMs-Lab",
                         "repo": "Otter",
-                        "stars": 3438,
+                        "stars": 3439,
                         "topics": [
                           "artificial-inteligence",
                           "chatgpt",
@@ -3298,7 +3298,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-07-02T03:20:41Z",
-                    "open_issues": 148,
+                    "open_issues": 149,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
                     "stars": 2421,
@@ -3378,7 +3378,7 @@
                     "open_issues": 65,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "Otter",
-                    "stars": 3438,
+                    "stars": 3439,
                     "topics": [
                       "artificial-inteligence",
                       "chatgpt",
@@ -3827,7 +3827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:39:45.768Z",
+    "last_updated": "2026-11-22T20:49:50.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
@@ -3839,7 +3839,7 @@
       "open_issues": 7,
       "owner": "yoloytang",
       "repo": "Awesome-LLMs-for-Video-Understanding",
-      "stars": 3310,
+      "stars": 3311,
       "topics": []
     },
     "original_repository_sha": "afce397b5ed41056f841d3a83c2783bc8ff1db64",
