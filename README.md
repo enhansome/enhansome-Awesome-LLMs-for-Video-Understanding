@@ -8,7 +8,7 @@
 
 <h5 align="center">  
 
-**[Paper](https://ieeexplore.ieee.org/document/10982110)** | **[arXiv](https://arxiv.org/abs/2312.17432)** | **[Project Page](https://github.com/yoloytang/Awesome-LLMs-for-Video-Understanding) ⭐ 3,311 | 🐛 7 | 📅 2026-11-11**
+**[Paper](https://ieeexplore.ieee.org/document/10982110)** | **[arXiv](https://arxiv.org/abs/2312.17432)** | **[Project Page](https://github.com/yoloytang/Awesome-LLMs-for-Video-Understanding) ⭐ 3,312 | 🐛 7 | 📅 2026-11-11**
 
 </h5>
 
@@ -23,7 +23,7 @@
 \[05/04/2025]
 
 🌟 Our Vid-LLM survey has been accepted to the IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)!
-👉 [IEEE Xplore](https://ieeexplore.ieee.org/document/10982110) | [GitHub](https://github.com/yoloytang/Awesome-LLMs-for-Video-Understanding) ⭐ 3,311 | 🐛 7 | 📅 2026-11-11
+👉 [IEEE Xplore](https://ieeexplore.ieee.org/document/10982110) | [GitHub](https://github.com/yoloytang/Awesome-LLMs-for-Video-Understanding) ⭐ 3,312 | 🐛 7 | 📅 2026-11-11
 
 \[07/23/2024]
 
@@ -166,7 +166,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**Long context transfer from language to vision**](https://arxiv.org/abs/2406.16852)                                                                          |        LongVA        | 06/2024 |             [code](https://github.com/EvolvingLMMs-Lab/LongVA) ⭐ 413 \| 🐛 29 \| 🌐 Python \| 📅 2025-03-18             |   arXiv   |
 | [**ShareGPT4Video improving video understanding and generation with better captions**](https://arxiv.org/abs/2406.04325)                                       |    ShareGPT4Video    | 06/2024 |                                        [code](https://sharegpt4video.github.io/)                                        |   arXiv   |
 | [**Towards event-oriented long video understanding**](https://arxiv.org/abs/2406.14129)                                                                        |          VIM         | 06/2024 |                [code](https://github.com/RUCAIBox/Event-Bench) ⭐ 12 \| 🐛 0 \| 🌐 Python \| 📅 2024-07-26               |   arXiv   |
-| [**Video-SALMONN speech-enhanced audio-visual large language models**](https://arxiv.org/abs/2406.15704)                                                       |     Video-SALMONN    | 06/2024 |                     [code](https://github.com/bytedance/SALMONN/) ⭐ 1,576 \| 🐛 31 \| 📅 2026-10-16                     |    ICML   |
+| [**Video-SALMONN speech-enhanced audio-visual large language models**](https://arxiv.org/abs/2406.15704)                                                       |     Video-SALMONN    | 06/2024 |                     [code](https://github.com/bytedance/SALMONN/) ⭐ 1,576 \| 🐛 28 \| 📅 2026-10-16                     |    ICML   |
 | [**VideoGPT+ integrating image and video encoders for enhanced video understanding**](https://arxiv.org/abs/2406.09418)                                        |       VideoGPT+      | 06/2024 |            [code](https://github.com/mbzuai-oryx/VideoGPT-plus) ⭐ 294 \| 🐛 16 \| 🌐 Python \| 📅 2026-09-05            |   arXiv   |
 | [**VideoLLaMA 2 advancing spatial-temporal modeling and audio understanding in video-LLMs**](https://arxiv.org/abs/2406.07476)                                 |     VideoLLaMA 2     | 06/2024 |            [code](https://github.com/DAMO-NLP-SG/VideoLLaMA2) ⭐ 1,310 \| 🐛 88 \| 🌐 Python \| 📅 2025-01-23            |   arXiv   |
 | [**MotionLLM: Understanding Human Behaviors from Human Motions and Videos**](https://arxiv.org/abs/2405.20340)                                                 |       MotionLLM      | 05/2024 |                                       [project page](https://lhchen.top/MotionLLM)                                      |   arXiv   |
@@ -221,7 +221,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**One Trajectory, One Token: Grounded Video Tokenization via Panoptic Sub-object Trajectory**](https://arxiv.org/abs/2505.23617)                              |           -          | 05/2025 |                  [code](https://github.com/RAIVNLab/trajvit) ⭐ 63 \| 🐛 0 \| 🌐 Python \| 📅 2026-05-09                 | ICCV 2025 |
 | [**VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding**](https://arxiv.org/abs/2607.14935)                                     |      VideoChat3      | 07/2026 |                [code](https://github.com/MCG-NJU/VideoChat3) ⭐ 365 \| 🐛 3 \| 🌐 Python \| 📅 2026-11-15                |   arXiv   |
 | [**OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction**](https://arxiv.org/abs/2610.01762)                        |      OneStreamer     | 10/2026 |                [code](https://github.com/MCG-NJU/OneStreamer) ⭐ 248 \| 🐛 5 \| 🌐 Python \| 📅 2026-11-19               |   arXiv   |
-| [**JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence**](https://arxiv.org/abs/2606.14777)                                               | JoyAI-VL-Interaction | 06/2026 |       [code](https://github.com/jd-opensource/JoyAI-VL-Interaction) ⭐ 2,049 \| 🐛 43 \| 🌐 Python \| 📅 2026-11-04      |   arXiv   |
+| [**JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence**](https://arxiv.org/abs/2606.14777)                                               | JoyAI-VL-Interaction | 06/2026 |       [code](https://github.com/jd-opensource/JoyAI-VL-Interaction) ⭐ 2,051 \| 🐛 43 \| 🌐 Python \| 📅 2026-11-04      |   arXiv   |
 
 ##### LLM as Regressor
 
@@ -259,7 +259,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**Detours for navigating instructional videos**](https://arxiv.org/abs/2401.01823)                                                                            |  VidDetours  | 01/2024 |                                            [code]()                                            |   CVPR  |
 | [**OneLLM: One Framework to Align All Modalities with Language**](https://arxiv.org/abs/2312.03700)                                                            |    OneLLM    | 12/2023 |      [code](https://github.com/csuhan/OneLLM) ⭐ 667 \| 🐛 20 \| 🌐 Python \| 📅 2024-10-22     |  arXiv  |
 | [**GPT4Video a unified multimodal large language model for lnstruction-followed understanding and safety-aware generation**](https://arxiv.org/abs/2311.16511) |   GPT4Video  | 11/2023 |                               [code](https://gpt4video.github.io)                              |  ACMMM  |
-| [**VideoJev: System One Model for Video Understanding and Interaction**](https://arxiv.org/abs/2610.18615)                                                     |   VideoJev   | 10/2026 |     [code](https://github.com/MCG-NJU/VideoJev) ⭐ 317 \| 🐛 0 \| 🌐 Python \| 📅 2026-10-18    |  arXiv  |
+| [**VideoJev: System One Model for Video Understanding and Interaction**](https://arxiv.org/abs/2610.18615)                                                     |   VideoJev   | 10/2026 |     [code](https://github.com/MCG-NJU/VideoJev) ⭐ 318 \| 🐛 0 \| 🌐 Python \| 📅 2026-10-18    |  arXiv  |
 | [**MJev-Spatial: System One Spatial Intelligence via Native Attention Matching**](https://arxiv.org/abs/2610.22276)                                            | MJev-Spatial | 10/2026 | [code](https://github.com/Fr0zenCrane/MJev-Spatial) ⭐ 25 \| 🐛 0 \| 🌐 Python \| 📅 2026-11-15 |  arXiv  |
 
 #### 🧭 (Analyzer + Embedder) × LLM
@@ -317,7 +317,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding**](https://arxiv.org/abs/2403.11481)                                                                                                                                                                                                                                  |      VideoAgent     | 03/2024 |                                               [project page](https://videoagent.github.io/)                                              |   arXiv   |
 | [**VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs**](https://arxiv.org/pdf/2409.20365)                                                                                                                                                                                                      |      VideoINSTA     | 09/2024 |                  [code](https://github.com/mayhugotong/VideoINSTA) ⭐ 24 \| 🐛 0 \| 🌐 Jupyter Notebook \| 📅 2026-04-07                  |   EMNLP   |
 | [**Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning**](https://arxiv.org/pdf/2506.13654) [![Star](https://img.shields.io/github/stars/egolife-ai/Ego-R1.svg?style=social\&label=Star)](https://github.com/egolife-ai/Ego-R1) ⭐ 172 \| 🐛 8 \| 🌐 Python \| 📅 2026-06-10                                                  |     Ego-R1 Agent    | 06/2025 |                         [code](https://github.com/egolife-ai/Ego-R1) ⭐ 172 \| 🐛 8 \| 🌐 Python \| 📅 2026-06-10                         |   arXiv   |
-| [**Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning**](https://arxiv.org/abs/2601.23224)                                                                                                                                                                                                                             |       Video-o3      | 01/2026 |                          [code](https://github.com/MCG-NJU/Video-o3) ⭐ 132 \| 🐛 7 \| 🌐 Python \| 📅 2026-07-02                         | ICML 2026 |
+| [**Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning**](https://arxiv.org/abs/2601.23224)                                                                                                                                                                                                                             |       Video-o3      | 01/2026 |                          [code](https://github.com/MCG-NJU/Video-o3) ⭐ 133 \| 🐛 7 \| 🌐 Python \| 📅 2026-07-02                         | ICML 2026 |
 
 #### 🎥 Vid-LLM Pretraining
 
@@ -419,7 +419,7 @@ If you find our survey useful for your research, please cite the following paper
 | **Charades-Ego**                                       |                                    [**Actor and Observer: Joint Modeling of First and Third-Person Videos**](https://arxiv.org/abs/1804.0962)                                   | 2018 |                                         [Link](https://prior.allenai.org/projects/charades-ego)                                         |          CVPR         |
 | **ActivityNet Captions**                               |                                                    [**Dense-Captioning Events in Videos**](https://arxiv.org/abs/1705.00754)                                                    | 2017 |                                      [Link](https://cs.stanford.edu/people/ranjaykrishna/densevid/)                                     |          ICCV         |
 | **HowTo100m**                                          |                       [**HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips**](https://arxiv.org/abs/1906.03327)                       | 2019 |                                         [Link](https://www.di.ens.fr/willow/research/howto100m/)                                        |          ICCV         |
-| **Movie Audio Descriptions (MAD)**                     |                          [**MAD: A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions**](https://arxiv.org/abs/2112.00431)                         | 2021 |                           [Link](https://github.com/Soldelli/MAD) ⭐ 178 \| 🐛 4 \| 🌐 Python \| 📅 2023-10-22                           |          CVPR         |
+| **Movie Audio Descriptions (MAD)**                     |                          [**MAD: A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions**](https://arxiv.org/abs/2112.00431)                         | 2021 |                           [Link](https://github.com/Soldelli/MAD) ⭐ 179 \| 🐛 4 \| 🌐 Python \| 📅 2023-10-22                           |          CVPR         |
 | **YouCook2**                                           |                                  [**Towards Automatic Learning of Procedures from Web Instructional Videos**](https://arxiv.org/abs/1703.09788)                                 | 2017 |                                                 [Link](http://youcook2.eecs.umich.edu/)                                                 |          AAAI         |
 | **MovieNet**                                           |                                           [**MovieNet: A Holistic Dataset for Movie Understanding**](https://arxiv.org/abs/2007.10937)                                          | 2020 |                                                   [Link](https://movienet.github.io/)                                                   |          ECCV         |
 | **Youku-mPLUG**                                        |                   [**Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks**](https://arxiv.org/abs/2306.04362)                  | 2023 |                        [Link](https://github.com/X-PLUG/Youku-mPLUG) ⭐ 313 \| 🐛 25 \| 🌐 Python \| 📅 2024-01-08                       |         arXiv         |
@@ -540,4 +540,4 @@ Our project wouldn't be possible without the contributions of these amazing peop
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
