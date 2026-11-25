@@ -736,7 +736,7 @@
                         "open_issues": 149,
                         "owner": "OpenGVLab",
                         "repo": "InternVideo",
-                        "stars": 2422,
+                        "stars": 2423,
                         "topics": [
                           "action-recognition",
                           "benchmark",
@@ -898,7 +898,7 @@
                         "open_issues": 79,
                         "owner": "NVlabs",
                         "repo": "VILA",
-                        "stars": 3873,
+                        "stars": 3874,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:41:16.929Z"
@@ -1263,7 +1263,7 @@
                         "open_issues": 5,
                         "owner": "MCG-NJU",
                         "repo": "OneStreamer",
-                        "stars": 248,
+                        "stars": 250,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1614,7 +1614,7 @@
                         "open_issues": 0,
                         "owner": "MCG-NJU",
                         "repo": "VideoJev",
-                        "stars": 318,
+                        "stars": 319,
                         "topics": []
                       },
                       "first_seen": "2026-10-17T17:32:29.374Z"
@@ -1635,7 +1635,7 @@
                         "open_issues": 0,
                         "owner": "Fr0zenCrane",
                         "repo": "MJev-Spatial",
-                        "stars": 25,
+                        "stars": 26,
                         "topics": []
                       },
                       "first_seen": "2026-11-09T23:34:35.075Z"
@@ -1872,7 +1872,7 @@
                     "open_issues": 8,
                     "owner": "egolife-ai",
                     "repo": "Ego-R1",
-                    "stars": 172,
+                    "stars": 171,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3301,7 +3301,7 @@
                     "open_issues": 149,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2422,
+                    "stars": 2423,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -3469,7 +3469,7 @@
                 "open_issues": 0,
                 "owner": "google-deepmind",
                 "repo": "perception_test",
-                "stars": 265,
+                "stars": 266,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:41:16.929Z"
@@ -3827,7 +3827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:38:11.916Z",
+    "last_updated": "2026-11-25T23:18:49.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
